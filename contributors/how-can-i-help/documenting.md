@@ -6,9 +6,11 @@ description: >-
 
 # Documenting
 
-First of all, thank you for your interest in contributing to Forge Wiki. With the help from the community, documenting Forge as it continues to grow, the documentation should be developed along with it. So this is where the community comes in to help.
+First of all, thank you for your interest in contributing to Forge Wiki. With the help from the community, documenting Forge as it continues to grow, the documentation should be developed along with it.&#x20;
 
 
+
+So this is where the community comes in to help!
 
 ## Where to start?
 
@@ -17,3 +19,10 @@ You can find a list of issues [**here**](https://github.com/forgewiki/forgewiki/
 
 
 If there's a documentation page that you would like to create, edit or remove it - submit a new issue for [**Documentation**](https://github.com/forgewiki/forgewiki/issues/new?assignees=\&labels=documentation\&template=documentation.md\&title=).
+
+## Markdown formatting
+
+Markdown formatting is the supported method for documentation. Learn more about Markdown itself, by visiting [Common Mark](https://commonmark.org/help/).
+
+
+
