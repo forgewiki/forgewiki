@@ -1,2 +1,7 @@
-# forgewiki
-A dedicated site for tutorials, resource sharing and updates related to Halo's Forge.
+---
+layout: landing
+---
+
+# Welcome to Forge Wiki
+
+First off, welcome to Forge Wiki. This wiki is dedicated to the in-game level editor for the Halo franchise called Forge.
