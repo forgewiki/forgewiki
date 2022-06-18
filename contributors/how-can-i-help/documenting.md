@@ -24,7 +24,3 @@ If there's a documentation page that you would like to create, edit or remove it
 
 Markdown formatting is the supported method for documentation. Learn more about Markdown itself, by visiting [Common Mark](https://commonmark.org/help/).
 
-
-
-{% embed url="https://www.youtube.com/watch?v=fPIig4_9d_8" %}
-
