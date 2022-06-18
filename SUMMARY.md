@@ -32,3 +32,4 @@
   * [Documenting](contributors/how-can-i-help/documenting.md)
   * [Promoting](contributors/how-can-i-help/promoting.md)
   * [Donate](contributors/how-can-i-help/donate.md)
+* [Thank you!](contributors/thank-you.md)
