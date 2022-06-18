@@ -7,7 +7,14 @@ assignees: ''
 
 ---
 
-Documentation URL:  _ex. https://www.forgewiki.com/tutorials/getting-started/forge-quick-start_
+Example
+=================
+Documentation URL:  https://www.forgewiki.com/tutorials/getting-started/forge-quick-start
+Documentation Title: Forge Quick Start
+
+Insert documentation here
+=================
+
 
 Use the supported Markdown styling guide: 
 
