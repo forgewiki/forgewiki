@@ -23,8 +23,12 @@
 
 ## Community
 
-* [Resources](community/resources.md)
 * [Showcase](community/showcase.md)
+
+## Resources
+
+* [Release Notes](resources/release-notes.md)
+* [Frequently Asked Questions](resources/frequently-asked-questions.md)
 
 ## Contributors
 
