@@ -2,6 +2,10 @@
 
 * [Welcome to Forge Wiki](README.md)
 
+## What's New
+
+* [Release Notes](whats-new/release-notes.md)
+
 ## Getting Started
 
 * [Start Exploring](getting-started/start-exploring.md)

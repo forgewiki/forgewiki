@@ -1,10 +1,10 @@
 ---
+cover: .gitbook/assets/Logo Board - Blue BG - White Ring - slogan.png
+coverY: 0
 layout: landing
 ---
 
 # Welcome to Forge Wiki
-
-![](<.gitbook/assets/Gitbook Social Media Share - 1280x320.png>)
 
 First off, welcome to Forge Wiki. This wiki is dedicated to the in-game level editor for the Halo franchise called Forge.
 
