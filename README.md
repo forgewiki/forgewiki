@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/Logo Board - Blue BG - White Ring - slogan.png
+cover: .gitbook/assets/Logo Board - White BG - Blue Ring - slogan.png
 coverY: 0
 layout: landing
 ---
