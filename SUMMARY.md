@@ -9,6 +9,7 @@
 ## Getting Started
 
 * [Start Exploring](getting-started/start-exploring.md)
+* [Forge History](getting-started/forge-history.md)
 * [Controller Layouts](getting-started/controller-layouts.md)
 * [Tutorials](getting-started/tutorials/README.md)
   * [Create your first forge map](getting-started/tutorials/create-your-first-forge-map.md)
