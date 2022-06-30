@@ -8,7 +8,7 @@
 
 ## Understanding the Basics
 
-* [Controller Layouts](understanding-the-basics/controller-layouts.md)
+* [Controller Layouts](getting-started/controller-layouts.md)
 * [Glossary](understanding-the-basics/glossary.md)
 
 ## Getting Started
@@ -20,7 +20,7 @@
 
 ## Objects
 
-* [Object Category](objects/object-category.md)
+* [Object Category](assets-objects/object-category.md)
 
 ## Lighting
 
