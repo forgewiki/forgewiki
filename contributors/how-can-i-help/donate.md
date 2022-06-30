@@ -4,7 +4,7 @@ description: Donations
 
 # Donate
 
-Forge Wiki will always be a free site to browse. Donations go a long way that will help fund the website costs and fees. Any and all donations will always be greatly appreciated.&#x20;
+Forge Wiki will always be a free site to browse. Donations go a long way that will help fund the website costs and fees. Any and all donations will always be greatly appreciated!
 
 If you enjoy the content on Forge Wiki and would like to contribute, sponsor [<mark style="color:blue;">**here**</mark>](https://github.com/sponsors/forgewiki).
 
@@ -17,6 +17,6 @@ If you enjoy the content on Forge Wiki and would like to contribute, sponsor [<m
 
 ### How do I donate to Forge Wiki?
 
-Use the Donate button below, as donations go directly through PayPal
+Use the Donate link below, as donations go directly through PayPal.
 
 {% embed url="https://www.paypal.com/donate/?hosted_button_id=8FZE3KQJM78R4" %}
