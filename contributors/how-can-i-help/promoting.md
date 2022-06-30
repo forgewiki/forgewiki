@@ -8,7 +8,7 @@ If you are not a forger (or even if you are), you can still contribute to the si
 
 ## Follow us
 
-* [Twitter](https://twitter.com/forgewiki)
-* [Instagram](https://www.instagram.com/forgewiki/)
-* [YouTube](https://www.youtube.com/channel/UCuwFo8UDYYmQjew3EKfO50g)
-* Discord (Invite coming soon)
+* [<mark style="color:blue;">**Twitter**</mark>](https://twitter.com/forgewiki)<mark style="color:blue;">****</mark>
+* <mark style="color:blue;">****</mark>[<mark style="color:blue;">**Instagram**</mark>](https://www.instagram.com/forgewiki/)<mark style="color:blue;">****</mark>
+* <mark style="color:blue;">****</mark>[<mark style="color:blue;">**YouTube**</mark>](https://www.youtube.com/channel/UCuwFo8UDYYmQjew3EKfO50g)<mark style="color:blue;">****</mark>
+* <mark style="color:blue;">**Discord (Invite coming soon)**</mark>

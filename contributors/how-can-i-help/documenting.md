@@ -14,13 +14,13 @@ So this is where the community comes in to help!
 
 ## Where to start?
 
-You can find a list of issues [**here**](https://github.com/forgewiki/forgewiki/issues). When you find something you would like to work on that's an open issue, just comment on it and we will add an **In Progress** label.&#x20;
+You can find a list of issues <mark style="color:blue;">****</mark> [<mark style="color:blue;">**here**</mark>](https://github.com/forgewiki/forgewiki/issues). When you find something you would like to work on that's an open issue, just comment on it and we will add an **In Progress** label.&#x20;
 
 
 
-If there's a documentation page that you would like to create, edit or remove it - submit a new issue for [**Documentation**](https://github.com/forgewiki/forgewiki/issues/new?assignees=\&labels=documentation\&template=documentation.md\&title=).
+If there's a documentation page that you would like to create, edit or remove it - submit a new issue for <mark style="color:blue;">****</mark> [<mark style="color:blue;">**Documentation**</mark>](https://github.com/forgewiki/forgewiki/issues/new?assignees=\&labels=documentation\&template=documentation.md\&title=).
 
 ## Markdown formatting
 
-Markdown formatting is the supported method for documentation. Learn more about Markdown itself, by visiting [Common Mark](https://commonmark.org/help/).
+Markdown formatting is the supported method for documentation. Learn more about Markdown itself, by visiting <mark style="color:blue;">****</mark> [<mark style="color:blue;">**Common Mark**</mark>](https://commonmark.org/help/).
 
