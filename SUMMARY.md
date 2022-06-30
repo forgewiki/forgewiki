@@ -6,6 +6,11 @@
 
 * [Release Notes](whats-new/release-notes.md)
 
+## Understanding the Basics
+
+* [Page 1](understanding-the-basics/page-1.md)
+* [Glossary](understanding-the-basics/glossary.md)
+
 ## Getting Started
 
 * [Start Exploring](getting-started/start-exploring.md)
