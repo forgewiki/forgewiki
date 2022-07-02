@@ -38,3 +38,9 @@
   * [Promoting](contributors/how-can-i-help/promoting.md)
   * [Donate](contributors/how-can-i-help/donate.md)
 * [Thank you!](contributors/thank-you.md)
+
+***
+
+* [Blog](https://blog.forgewiki.com/)
+* [GitHub](https://github.com/forgewiki)
+* [Donate](https://www.paypal.com/donate/?hosted\_button\_id=8FZE3KQJM78R4)
