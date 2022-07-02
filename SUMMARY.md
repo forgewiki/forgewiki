@@ -43,6 +43,7 @@
 ***
 
 * [Blog](https://blog.forgewiki.com/)
-* [GitHub](https://github.com/forgewiki)
+* [Merch](https://merch.forgewiki.com/)
 * [Donate](https://www.paypal.com/donate/?hosted\_button\_id=8FZE3KQJM78R4)
-* [Contact](https://www.forgewiki.com/contributors/contact)
+* [Contact Us](https://www.forgewiki.com/contributors/contact)
+* [GitHub](https://github.com/forgewiki)
