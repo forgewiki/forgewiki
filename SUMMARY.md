@@ -35,6 +35,7 @@
 
 * [How can I help?](contributors/how-can-i-help/README.md)
   * [Documenting](contributors/how-can-i-help/documenting.md)
+  * [Markdown Style Guide](contributors/how-can-i-help/markdown-style-guide.md)
   * [Promoting](contributors/how-can-i-help/promoting.md)
   * [Donate](contributors/how-can-i-help/donate.md)
 * [Contact Us](contributors/contact-us.md)
