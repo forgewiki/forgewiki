@@ -4,7 +4,7 @@ The Forge Wiki supports the [<mark style="color:blue;">**Markdown Markup Languag
 
 Markdown can be written in various different styles, in this document you will find the standard formatting guide for creating Forge Wiki documentation.
 
-### Rules
+## Rules
 
 ### MD001 - Header levels should only increment by one level at a time
 
