@@ -29,5 +29,3 @@ All information found on Forge Wiki is public, including anything you add to an 
 ---
 
 Forge Wiki is a wiki about the Halo universe, including the Halo games, which the majority of are rated "M" by the [<mark style="color:blue;">**Entertainment Software Rating Board**</mark>](https://www.esrb.org/). This means that Forge Wiki's content is intended for mature audiences, aged 17 and older. The content of Forge Wiki's articles and images are therefore also intended for audiences 17 and older. Since the website cannot censor information, it is best to use discretion when viewing Forge Wiki's content.
-
-[<mark style="color:blue;">****</mark>]()
