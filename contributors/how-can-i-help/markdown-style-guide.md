@@ -35,3 +35,23 @@ We skipped out a 2nd level header in this document
 
 ### Another Header 3
 ```
+
+### MD002 - First header should be a top level header
+
+The first header of the document should be a top level header (H1).
+
+**Wrong**:
+
+```
+## This isn't a H1 header
+
+### Another header
+```
+
+**Correct**:
+
+```
+# Start with a H1 header
+
+## Then use a H2 for subsections
+```
