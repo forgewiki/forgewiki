@@ -6,25 +6,25 @@ description: >-
 
 # Documenting
 
-First of all, thank you for your interest in contributing to Forge Wiki. With the help from the community, documenting Forge as it continues to grow, the documentation should be developed along with it.&#x20;
+First of all, thank you for your interest in contributing to Forge Wiki. With the help from the community, documenting Forge as it continues to grow, the documentation should be developed along with it.
 
 So this is where the community comes in to help!
 
 ## Where to start?
 
-You can find a list of issues <mark style="color:blue;">****</mark> [<mark style="color:blue;">**here**</mark>](https://github.com/forgewiki/forgewiki/issues). When you find something you would like to work on that's an open issue, just comment on it and we will add an **In Progress** label.&#x20;
+You can find a list of issues [<mark style="color:blue;">**here**</mark>](https://github.com/forgewiki/forgewiki/issues). When you find something you would like to work on that's an open issue, just comment on it and we will add an <mark style="background-color:green;">**In Progress**</mark> label.
 
-If there's a documentation page that you would like to create, edit or remove - submit a new issue for <mark style="color:blue;">****</mark> [<mark style="color:blue;">**Documentation**</mark>](https://github.com/forgewiki/forgewiki/issues/new?assignees=\&labels=documentation\&template=documentation.md\&title=).
+If there's a documentation page that you would like to create, edit or remove - submit a new issue for [<mark style="color:blue;">**Documentation**</mark>](https://github.com/forgewiki/forgewiki/issues/new?assignees=\&labels=documentation\&template=documentation.md\&title=).
 
-## Enviroment Setup
+## Environment Setup
 
-Forge Wiki uses <mark style="color:blue;">****</mark> [<mark style="color:blue;">**GitBook**</mark>](https://www.gitbook.com/) for documentation.
+Forge Wiki uses [<mark style="color:blue;">**GitBook**</mark>](https://www.gitbook.com/) for documentation.
 
 You can contribute to the wiki by being invited into the GitBook online workspace or directly from your local environment. Follow this guide for a simple local environment setup
 
-* Install any code editor of your choice, <mark style="color:blue;">****</mark> [<mark style="color:blue;">**VSCode**</mark>](https://code.visualstudio.com/) is a recommended editor
-* Launch VSCode and install the <mark style="color:blue;">****</mark> [<mark style="color:blue;">**Auto-Open Markdown Preview**</mark>](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview) and <mark style="color:blue;">****</mark> [<mark style="color:blue;">**markdownlint**</mark>](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) extensions. This will help with automatically formatting your changes and prompts for any potential errors
-* Fork and clone the <mark style="color:blue;">****</mark> [<mark style="color:blue;">**Forge Wiki**</mark>](https://github.com/forgewiki/forgewiki) repository
+* Install any code editor of your choice,  [<mark style="color:blue;">**VSCode**</mark>](https://code.visualstudio.com/) is a recommended editor
+* Launch VSCode and install the [<mark style="color:blue;">**Auto-Open Markdown Preview**</mark>](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview) **and** [<mark style="color:blue;">**markdownlint**</mark>](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) extensions. This will help with automatically formatting your changes and prompts for any potential errors
+* Fork and clone the [<mark style="color:blue;">**Forge Wiki**</mark>](https://github.com/forgewiki/forgewiki) repository
 * Open the project in VSCode and start making your changes
 
 ## Creating a new Pull Request
@@ -37,12 +37,11 @@ When you create a new pull request, we expect some requirements that need to be 
   * When adding new documentation, add _**New Documentation:**_ before the title. E.g. New Documentation: Advanced forge tutorial
   * When fixing documentation, add _**Fix Documentation:**_ before the title. E.g. Fix Documentation: Advanced forge tutorial
   * When updating documentation, add _**Update Documentation:**_ before the title. E.g. Fix Documentation: Advanced forge tutorial
-* If your Pull Request closes an issue you need to write Closes #ISSUE_NUMBER where the ISSUE_NUMBER is the number at the end of the link URL that will link your pull request to the issue, when merged will close that issue.
+* If your Pull Request closes an issue you need to write Closes #ISSUE\_NUMBER where the ISSUE\_NUMBER is the number at the end of the link URL that will link your pull request to the issue, when merged will close that issue.
 
 ## Community Maintainers
 
-We are looking for community maintainers for Forge Wiki. Maintainers will be added to a special team with write permissions. These permissions consist of opening, closing, tagging, and editing issues and pull requests, create and delete non-protected branches on the docs repository.
-The responsibilities of a maintainer are:
+We are looking for community maintainers for Forge Wiki. Maintainers will be added to a special team with write permissions. These permissions consist of opening, closing, tagging, and editing issues and pull requests, create and delete non-protected branches on the docs repository. The responsibilities of a maintainer are:
 
 ### Issue Organization
 
@@ -58,6 +57,6 @@ The responsibilities of a maintainer are:
 
 ## Markdown formatting
 
-Markdown formatting is the supported method for documentation. Learn more about Markdown itself, by visiting <mark style="color:blue;">****</mark> [<mark style="color:blue;">**Common Mark**</mark>](https://commonmark.org/help/).
+Markdown formatting is the supported method for documentation. Learn more about Markdown itself, by visiting [<mark style="color:blue;">**Common Mark**</mark>](https://commonmark.org/help/).
 
-Also see <mark style="color:blue;">****</mark> [<mark style="color:blue;">**Markdown Style Guide**</mark>](markdown-style-guide.md)
+Also see [<mark style="color:blue;">**Markdown Style Guide**</mark>](markdown-style-guide.md)
