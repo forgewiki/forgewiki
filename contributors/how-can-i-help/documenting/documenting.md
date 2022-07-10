@@ -12,7 +12,7 @@ So this is where the community comes in to help!
 
 ## Where to start?
 
-You can find a list of issues [<mark style="color:blue;">**here**</mark>](https://github.com/forgewiki/forgewiki/issues). When you find something you would like to work on that's an open issue, just comment on it and we will add an <mark style="background-color:green;">**In Progress**</mark> label.
+You can find a list of issues [<mark style="color:blue;">**here**</mark>](https://github.com/forgewiki/forgewiki/issues). When you find something you would like to work on that's an open issue, just comment on it and we will add an **In Progress** label.
 
 If there's a documentation page that you would like to create, edit or remove - submit a new issue for [<mark style="color:blue;">**Documentation**</mark>](https://github.com/forgewiki/forgewiki/issues/new?assignees=\&labels=documentation\&template=documentation.md\&title=).
 
@@ -23,7 +23,7 @@ Forge Wiki uses [<mark style="color:blue;">**GitBook**</mark>](https://www.gitbo
 You can contribute to the wiki by being invited into the GitBook online workspace or directly from your local environment. Follow this guide for a simple local environment setup
 
 * Install any code editor of your choice,  [<mark style="color:blue;">**VSCode**</mark>](https://code.visualstudio.com/) is a recommended editor
-* Launch VSCode and install the [<mark style="color:blue;">**Auto-Open Markdown Preview**</mark>](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview) **and** [<mark style="color:blue;">**markdownlint**</mark>](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) extensions. This will help with automatically formatting your changes and prompts for any potential errors
+* Launch VSCode and install the [<mark style="color:blue;">**Auto-Open Markdown Preview**</mark>](https://marketplace.visualstudio.com/items?itemName=hnw.vscode-auto-open-markdown-preview) and [<mark style="color:blue;">**markdownlint**</mark>](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) extensions. This will help with automatically formatting your changes and prompts for any potential errors
 * Fork and clone the [<mark style="color:blue;">**Forge Wiki**</mark>](https://github.com/forgewiki/forgewiki) repository
 * Open the project in VSCode and start making your changes
 
