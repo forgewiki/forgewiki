@@ -6,7 +6,7 @@ Markdown can be written in various different styles, in this document you will f
 
 ### Rules
 
-#### MD001 - Header levels should only increment by one level at a time
+### MD001 - Header levels should only increment by one level at a time
 
 Headers should not be skipped, instead incremented one by one.
 
