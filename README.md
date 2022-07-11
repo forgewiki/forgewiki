@@ -16,6 +16,8 @@ This wiki is filled with all of your Halo Forge desires. Learn how to create you
 
 This wiki will include all assets, canvases, and all that relates to the editor. Along with tutorials that will range from basic to advanced.&#x20;
 
+{% embed url="https://www.forgewiki.com/getting-started/start-exploring" %}
+
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
