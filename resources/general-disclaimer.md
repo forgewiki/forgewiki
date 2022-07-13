@@ -2,7 +2,7 @@
 
 [<mark style="color:blue;">**Halo**</mark>](https://www.343industries.com/) © [<mark style="color:blue;">**Microsoft Corporation**</mark>](https://www.microsoft.com/en-us/). Forge Wiki was created under Microsoft's "Game Content Usage Rules" using assets from Halo, and it is not endorsed by or affiliated with Microsoft.
 
-For more information relating to the Microsoft's Game Content Usage Rules, visit [<mark style="color:blue;">**343 Industries**</mark>](https://www.xbox.com/en-US/developers/rules/).
+For more information relating to the Microsoft's Game Content Usage Rules, visit [<mark style="color:blue;">**https://www.xbox.com/en-US/developers/rules**</mark>](https://www.xbox.com/en-US/developers/rules).
 
 ## Forge Wiki makes no guarantee of validity
 
