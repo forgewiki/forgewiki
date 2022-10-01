@@ -24,7 +24,7 @@
 
 ## Lighting
 
-* [Lighting Category](lighting/lighting-category.md)
+* [Lighting ](lighting/lighting-category.md)
 
 ## Scripting
 
