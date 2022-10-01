@@ -26,6 +26,11 @@
 
 * [Lighting Category](lighting/lighting-category.md)
 
+## Scripting
+
+* [Vehicles](scripting/vehicles/README.md)
+  * [Are Same Vehicle Type](scripting/vehicles/are-same-vehicle-type.md)
+
 ## Resources
 
 * [Release Notes](resources/release-notes.md)
