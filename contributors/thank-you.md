@@ -6,7 +6,7 @@ Thank you!
 
 ## Contributors
 
-_Contributors are community members who have helped document Forge Wiki. Learn how to become a contributor <mark style="color:blue;">****</mark>_ [_<mark style="color:blue;">**here**</mark>_](how-can-i-help/documenting.md)_._
+_Contributors are community members who have helped document Forge Wiki. Learn how to become a contributor <mark style="color:blue;">****</mark>_ [_<mark style="color:blue;">**here**</mark>_](how-can-i-help/documenting/documenting.md)_._
 
 ## Donors
 
