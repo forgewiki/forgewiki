@@ -26,6 +26,11 @@
 
 * [Lighting Category](lighting/lighting-category.md)
 
+## Scripting
+
+* [Vehicles](scripting/vehicles/README.md)
+  * [Are Same Vehicle Type](scripting/vehicles/are-same-vehicle-type.md)
+
 ## Resources
 
 * [Release Notes](resources/release-notes.md)
@@ -50,8 +55,3 @@
 * [Donate](https://www.paypal.com/donate/?hosted\_button\_id=8FZE3KQJM78R4)
 * [Contact Us](https://www.forgewiki.com/contributors/contact)
 * [GitHub](https://github.com/forgewiki)
-
-## Scripting
-
-* [Vehicles](scripting/vehicles/README.md)
-  * [Are Same Vehicle Type](scripting/vehicles/are-same-vehicle-type.md)
