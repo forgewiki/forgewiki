@@ -28,6 +28,7 @@
 
 ## Scripting
 
+* [Scripting](scripting/scripting.md)
 * [Vehicles](scripting/vehicles/README.md)
   * [Are Same Vehicle Type](scripting/vehicles/are-same-vehicle-type.md)
 
