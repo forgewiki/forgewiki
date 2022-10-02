@@ -20,3 +20,6 @@ This wiki will include all assets, canvases, and all that relates to the editor.
 [lighting.md](lighting/lighting.md)
 {% endcontent-ref %}
 
+{% content-ref url="scripting/scripting.md" %}
+[scripting.md](scripting/scripting.md)
+{% endcontent-ref %}
