@@ -4,7 +4,7 @@
 
 ## What's New
 
-* [Release Notes](whats-new/release-notes.md)
+* [Site Updates](whats-new/site-updates.md)
 
 ## Understanding the Basics
 
@@ -17,18 +17,6 @@
 * [Forge History](getting-started/forge-history.md)
 * [Tutorials](getting-started/tutorials/README.md)
   * [Create your first forge map](getting-started/tutorials/create-your-first-forge-map.md)
-
-## Objects
-
-* [Object Category](assets-objects/object-category.md)
-
-## Lighting
-
-* [Lighting](lighting/lighting.md)
-
-## Scripting
-
-* [Scripting](scripting/scripting.md)
 
 ## Resources
 
