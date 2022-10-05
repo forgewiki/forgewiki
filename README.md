@@ -1,7 +1,6 @@
 ---
 cover: .gitbook/assets/Logo Board - White BG - Blue Ring - slogan copy.png
 coverY: 0
-layout: editorial
 ---
 
 # Welcome to Forge Wiki
@@ -12,4 +11,4 @@ Inside the wiki, you'll be filled with all of your Halo Forge knowledge and desi
 
 This wiki will include all assets, canvases, scripting and all that relates to the editor. Be sure to follow along with tutorials that will range from basic to advanced.&#x20;
 
-If you would like to help grow the wiki, please [share ](contributors/how-can-i-help/promoting.md)and [contribute ](contributors/how-can-i-help/documenting/documenting.md)wherever you can!
+If you would like to help grow the wiki, please <mark style="color:blue;"></mark> [<mark style="color:blue;">share</mark> ](contributors/how-can-i-help/promoting.md)and <mark style="color:blue;"></mark> [<mark style="color:blue;">contribute</mark> ](contributors/how-can-i-help/documenting/documenting.md)wherever you can!
