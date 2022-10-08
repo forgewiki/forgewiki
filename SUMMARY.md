@@ -2,6 +2,13 @@
 
 * [Welcome to Forge Wiki](README.md)
 
+## Getting Started
+
+* [Start Exploring](getting-started/start-exploring.md)
+* [Forge History](getting-started/forge-history.md)
+* [Tutorials](getting-started/tutorials/README.md)
+  * [Create your first forge map](getting-started/tutorials/create-your-first-forge-map.md)
+  
 ## What's New
 
 * [Site Updates](whats-new/site-updates.md)
@@ -10,13 +17,6 @@
 
 * [Controller Layouts](getting-started/controller-layouts.md)
 * [Glossary](understanding-the-basics/glossary.md)
-
-## Getting Started
-
-* [Start Exploring](getting-started/start-exploring.md)
-* [Forge History](getting-started/forge-history.md)
-* [Tutorials](getting-started/tutorials/README.md)
-  * [Create your first forge map](getting-started/tutorials/create-your-first-forge-map.md)
 
 ## Resources
 
