@@ -1,4 +1,4 @@
-# Forge Canvases
+# Forge Canvas
 
 ## Description
 
@@ -10,7 +10,6 @@ Where the building process begins, on a canvas.
 (Length x Width x Height) in World Units (WU): 400 x 400 x 150
 
 {% endhint %}
-
 
 ## List of canvases
 

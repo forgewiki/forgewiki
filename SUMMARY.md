@@ -16,6 +16,7 @@
 ## Understanding the Basics
 
 * [Controller Layouts](getting-started/controller-layouts.md)
+* [Forge Canvas](understanding-the-basics/forge-canvases.md)
 * [Glossary](understanding-the-basics/glossary.md)
 
 ## Resources
