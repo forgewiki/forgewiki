@@ -7,15 +7,14 @@ assignees: ''
 
 ---
 
-Example
-=================
-Documentation URL:  https://www.forgewiki.com/tutorials/getting-started/forge-quick-start
-Documentation Title: Forge Quick Start
+## Example
 
-Insert documentation here
-=================
+**Documentation URL**: [https://www.forgewiki.com/tutorials/getting-started/forge-quick-start](https://www.forgewiki.com/tutorials/getting-started/forge-quick-start)
 
+**Documentation Title**: Forge Quick Start
 
-Use the supported Markdown styling guide: 
+## Insert documentation here
 
-https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Use the supported Markdown styling guide:
+
+[https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
