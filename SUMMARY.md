@@ -24,6 +24,7 @@
 * [Release Notes](resources/release-notes.md)
 * [Frequently Asked Questions](resources/frequently-asked-questions.md)
 * [General Disclaimer](resources/general-disclaimer.md)
+* [Copyrights](resources/copyrights.md)
 
 ## Contributors
 
