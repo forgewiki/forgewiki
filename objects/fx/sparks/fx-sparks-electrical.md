@@ -1,0 +1,15 @@
+# FX Sparks Electrical
+
+## Description
+
+FX emitter object with attached FX. Only the FX will be visible in game. FX colors can be changed via the Object Properties menu.
+
+## Size Variants
+
+* Tiny
+* Small
+
+## Object Variants
+
+* Tiny Intermittent
+* Small Intermittent
