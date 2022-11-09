@@ -1,0 +1,19 @@
+# Are Same Vehicle Type
+
+## Description
+
+Returns whether the two objects share a base _Vehicle Type_ (e.g. both are Warthogs) and if they share a _Vehicle Type_ (e.g. both are Rockethogs). Two objects with invalid _Vehicle Types_ will compare as true.
+
+![aresamevehicletype](../../.gitbook/assets/images/scripting/vehicles/aresamevehicletype.png)
+
+## Arguments
+
+Inputs:
+
+- Vehicle A
+- Vehicle B
+
+Outputs:
+
+- Are Same Base Vehicle Type
+- Are Same Vehicle Type
