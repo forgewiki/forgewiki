@@ -9,3 +9,4 @@ Let your light shine bright!
 * [Fog](fog/README.md)
 * [Level Bound Probes](level-bound-probes.md)
 * [Light And Atmosphere](light-and-atmosphere/README.md)
+* [Light Properties](light-properties/README.md)

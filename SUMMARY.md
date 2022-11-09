@@ -30,6 +30,11 @@
   * [Sky Rendering](lighting/light-and-atmosphere/sky-rendering.md)
   * [Sky Light And Directional Sky Light](lighting/light-and-atmosphere/sky-light-and-directional-sky-light.md)
   * [Sunlight And Sun Direction](lighting/light-and-atmosphere/sunlight-and-sun-direction.md)
+* [Light Properties](lighting/light-properties/README.md)
+  * [Animation](lighting/light-properties/animation.md)
+  * [Cone](lighting/light-properties/cone.md)
+  * [Gobo](lighting/light-properties/gobo.md)
+  * [OBB](lighting/light-properties/obb.md)
 
 ## Objects
 
