@@ -17,4 +17,4 @@ Sky light is a general ambience around the map that can see the sky. Directional
 |East Override | Changes Color of sky lighting coming from the East.|
 |West Override |Changes Color of sky lighting coming from the West.|
 
-![Directional Sky Light Properties](https://imgur.com/pO7U7Zj.gif)
+![Directional Sky Light](https://imgur.com/pO7U7Zj.gif)
