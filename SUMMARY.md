@@ -17,14 +17,6 @@
 
 * [Controller Layouts](getting-started/controller-layouts.md)
 * [Forge Canvas](understanding-the-basics/forge-canvas.md)
-* [Glossary](understanding-the-basics/glossary.md)
-
-## Resources
-
-* [Release Notes](resources/release-notes.md)
-* [Frequently Asked Questions](resources/frequently-asked-questions.md)
-* [General Disclaimer](resources/general-disclaimer.md)
-* [Copyrights](resources/copyrights.md)
 
 ## Objects
 
@@ -1075,6 +1067,14 @@
   * [Donate](contributors/how-can-i-help/donate.md)
 * [Contact Us](contributors/contact-us.md)
 * [Thank you!](contributors/thank-you.md)
+
+## Resources
+
+* [Glossary](resources/glossary.md)
+* [Release Notes](resources/release-notes.md)
+* [Frequently Asked Questions](resources/frequently-asked-questions.md)
+* [General Disclaimer](resources/general-disclaimer.md)
+* [Copyrights](resources/copyrights.md)
 
 ***
 
