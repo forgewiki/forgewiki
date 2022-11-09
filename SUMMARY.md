@@ -18,6 +18,19 @@
 * [Controller Layouts](getting-started/controller-layouts.md)
 * [Forge Canvas](understanding-the-basics/forge-canvas.md)
 
+## Lighting
+
+* [Lighting](lighting/README.md)
+* [Fog](lighting/fog/README.md)
+  * [Atmospheric Fog](lighting/fog/atmospheric-fog.md)
+  * [Volumetric Fog](lighting/fog/volumetric-fog.md)
+* [Level Bound Probes](lighting/level-bound-probes.md)
+* [Light And Atmosphere](lighting/light-and-atmosphere/README.md)
+  * [Light Bounce](lighting/light-and-atmosphere/light-bounce.md)
+  * [Sky Rendering](lighting/light-and-atmosphere/sky-rendering.md)
+  * [Sky Light And Directional Sky Light](lighting/light-and-atmosphere/sky-light-and-directional-sky-light.md)
+  * [Sunlight And Sun Direction](lighting/light-and-atmosphere/sunlight-and-sun-direction.md)
+
 ## Objects
 
 * [Accents](objects/accents/README.md)
