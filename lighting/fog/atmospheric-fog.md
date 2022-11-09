@@ -13,5 +13,4 @@
 |Inscattering | The amount of light that scatters throughout the atmosphere (Reference Image Inscattering)|
 |Fake Inscattering Tint | Sets a false color scatter thorough the atmosphere \| Inscattering must be under 1 (Reference Image Inscattering) |
 
-![Inscattering](../../.gitbook/assets/images/lighting/inscattering.gif)
-
+![Inscattering](https://imgur.com/EDpxCNh.gif)

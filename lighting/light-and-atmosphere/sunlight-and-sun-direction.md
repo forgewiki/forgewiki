@@ -11,8 +11,8 @@ Controls the Sun direction, intensity, and color. A good note is that the sun wi
 |Intensity|Changes the brightness of the sunlight|
 |Color Override|Changes the color of the sunlight|
 |Sun Direction||
-|Sun Yaw|Cardinal direction sun position (Left and Right) (Reference Sun Yay)|
-|Sun Pitch|Time of day sun position (Up and Down) (Reference Image DWS_2)|
+|Sun Yaw|Cardinal direction sun position (Left and Right) (Reference Image Sun Yaw)|
+|Sun Pitch|Time of day sun position (Up and Down) (Reference Image Sun Pitch)|
 
 ![Sun Yaw](https://imgur.com/NcQdm97.gif)
 
