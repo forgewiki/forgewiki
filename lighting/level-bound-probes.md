@@ -1,8 +1,7 @@
 # Level Bound Probes
 
-{% hint style="info" %}
-Level bound probes to rendering your indirect for the map. Level stretching across the whole map, object scaling based on player placed objects, or none. (No level volume) 
-{% endhint %}
+Level bound probes to rendering your indirect for the map. Level stretching across the whole map, object scaling based on player placed objects, or none. (No level volume)
+
 
 ![Level Bound Probes Properties](../.gitbook/assets/images/lighting/level-bound-probes-properties.png)
 
