@@ -8,7 +8,7 @@ OBB's (Oriented Bounding Box) are used Primarily as a performance tool, clamping
 
 |Property Name|Description|
 |:-- | :--|
-|Enable OBB|Toggles on/off OBB (Reference Image L8, L9, L10)|
+|Enable OBB|Toggles on/off OBB (Reference Images below )|
 |Scale with Light Range|Automatically scales the bounds if ""Light Range" changes|
 |Lower X Bound| Moves 1 side of the bounding box, setting can not be higher than Upper X Bound |
 |Upper X Bound| Moves 1 side of the bounding box, setting can not be higher than Lower X Bound |
@@ -17,5 +17,9 @@ OBB's (Oriented Bounding Box) are used Primarily as a performance tool, clamping
 |Bottom|Moves the Bottom of the Volume|
 |Top|Moves the Bottom of the Volume|
 |Show | Always render OBB Volume|
+
+![OBB Adjusted](../../.gitbook/assets/images/lighting/obb-adjusted.png)
+
+![OBB Default](../../.gitbook/assets/images/lighting/obb-default.png)
 
 ![Debug On/Off](https://imgur.com/kZes1b8.gif)
