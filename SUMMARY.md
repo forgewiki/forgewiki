@@ -18,6 +18,10 @@
 * [Controller Layouts](getting-started/controller-layouts.md)
 * [Forge Canvas](understanding-the-basics/forge-canvas.md)
 
+## Game Modes
+
+* [Capture the Flag](game-modes/capture-the-flag.md)
+
 ## Lighting
 
 * [Lighting](lighting/README.md)
