@@ -843,7 +843,6 @@
     * [Primitive Ring Quarter](objects/primitives/rings/primitive-ring-quarter.md)
     * [Primitive Ring Full](objects/primitives/rings/primitive-ring-full.md)
     * [Primitive Ring Half](objects/primitives/rings/primitive-ring-half.md)
-    *
     * [UNSC Ring Eighth](objects/primitives/rings/unsc-ring-eigth.md)
     * [UNSC Ring Full](objects/primitives/rings/unsc-ring-full.md)
     * [UNSC Ring Half](objects/primitives/rings/unsc-ring-half.md)
