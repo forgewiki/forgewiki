@@ -1,5 +1,2 @@
 # TV
 
-## Description
-
-Flatscreen television

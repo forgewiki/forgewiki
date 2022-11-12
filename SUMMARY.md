@@ -8,7 +8,7 @@
 * [Forge History](getting-started/forge-history.md)
 * [Tutorials](getting-started/tutorials/README.md)
   * [Create your first forge map](getting-started/tutorials/create-your-first-forge-map.md)
-  
+
 ## What's New
 
 * [Site Updates](whats-new/site-updates.md)
@@ -131,7 +131,7 @@
     * [Tool Cart](objects/accents/city-props/tool-cart.md)
     * [Traffic Pylon](objects/accents/city-props/traffic-pylon.md)
     * [Triangle Traffic Cone](objects/accents/city-props/triangle-traffic-cone.md)
-    * [TV](objects/accents/city-props/tv)
+    * [TV](objects/accents/city-props/tv.md)
     * [Ventilation Unit Large](objects/accents/city-props/ventilation-unit-large.md)
     * [Ventilation Unit Roof](objects/accents/city-props/ventilation-unit-roof.md)
     * [Ventilation Unit Wall](objects/accents/city-props/ventilation-unit-wall.md)
@@ -666,7 +666,7 @@
     * [Flag Spawn](objects/gameplay/game-modes/flag-spawn.md)
     * [KOTH Capture Zone](objects/gameplay/game-modes/koth-capture-zone.md)
     * [Power Seed Spawn](objects/gameplay/game-modes/power-seed-spawn.md)
-    * [Power Socket Forerunner](objects/gameplay/game-modes/game-modes/power-socket-forerunner.md)
+    * [Power Socket Forerunner](objects/gameplay/game-modes/power-socket-forerunner.md)
     * [Power Socket UNSC](objects/gameplay/game-modes/power-socket-unsc.md)
     * [Shrinking Zone](objects/gameplay/game-modes/shrinking-zone.md)
     * [Stronghold / KOTH Capture Plate](objects/gameplay/game-modes/stronghold-koth-capture-plate.md)
@@ -683,7 +683,6 @@
     * [Team Intro Line Left](objects/gameplay/match-flow/team-intro-line-left.md)
     * [Team Intro Line Right](objects/gameplay/match-flow/team-intro-line-right.md)
     * [Winning Team Outro](objects/gameplay/match-flow/winning-team-outro.md)
-
   * [Nav Mesh](objects/gameplay/nav-mesh/README.md)
     * [Bot Crouch One Way](objects/gameplay/nav-mesh/bot-crouch-one-way.md)
     * [Bot Crouch Two Way](objects/gameplay/nav-mesh/bot-crouch-two-way.md)
@@ -696,7 +695,6 @@
     * [Bot Walk Two Way](objects/gameplay/nav-mesh/bot-walk-two-way.md)
     * [Nav Cutter](objects/gameplay/nav-mesh/nav-cutter.md)
     * [Nav Seed Point](objects/gameplay/nav-mesh/nav-seed-point.md)
-
   * [Player Spawning](objects/gameplay/player-spawning/README.md)
     * [Spawn Point (Backup)](objects/gameplay/player-spawning/spawn-point-backup.md)
     * [Spawn Point (Initial)](objects/gameplay/player-spawning/spawn-point-initial.md)
@@ -819,7 +817,6 @@
     * [Unbound Plasma Pistol](objects/gameplay/weapons/unbound-plasma-pistol.md)
     * [VK78 Commando Rifle](objects/gameplay/weapons/vk78-commando-rifle.md)
     * [Volatile Skewer](objects/gameplay/weapons/volatile-skewer.md)
-
 * [Halo Design Set](objects/halo-design-set/README.md)
 * [Lights](objects/lights/README.md)
 * [Primitives](objects/primitives/README.md)
@@ -846,7 +843,7 @@
     * [Primitive Ring Quarter](objects/primitives/rings/primitive-ring-quarter.md)
     * [Primitive Ring Full](objects/primitives/rings/primitive-ring-full.md)
     * [Primitive Ring Half](objects/primitives/rings/primitive-ring-half.md)
-    * [Primitive Ring Quarter](objects/primitives/rings/primitive-ring-quarter.md)
+    *
     * [UNSC Ring Eighth](objects/primitives/rings/unsc-ring-eigth.md)
     * [UNSC Ring Full](objects/primitives/rings/unsc-ring-full.md)
     * [UNSC Ring Half](objects/primitives/rings/unsc-ring-half.md)
