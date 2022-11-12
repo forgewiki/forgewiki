@@ -14,10 +14,26 @@ There is a max limit of 15 manually placed Reflection Volumes, plus 1 global def
 |Blend Distance | Fades the edges of the reflection volume (Lower settings will have a sharp edge / Higher settings will have a softer edge). (Reference Image Blend Distance '0' and '15') |
 |Parallax | Toggle on/off parallax correction to reflection from volume |
 
-![Prism Reflection Volume](../.gitbook/assets/images/lighting/prism-reflection-volume.png)
+<!-- ![Prism Reflection Volume](../.gitbook/assets/images/lighting/prism-reflection-volume.png)
 
 ![Sphere Reflection Volume](../.gitbook/assets/images/lighting/sphere-reflection-volume.png)
 
 ![Blend Distance '0'](../.gitbook/assets/images/lighting/blend-0-reflection-volume.png)
 
-![Blend Distance '15'](../.gitbook/assets/images/lighting/blend-15-reflection-volume.png)
+![Blend Distance '15'](../.gitbook/assets/images/lighting/blend-15-reflection-volume.png) -->
+
+<div>
+
+<figure><img src="../.gitbook/assets/images/lighting/prism-reflection-volume.png" alt="Prism Reflection Volume"><figcaption><p>Prism Reflection Volume</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/images/lighting/sphere-reflection-volume.png" alt="Sphere Reflection Volume"><figcaption><p>Sphere Reflection Volume</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/images/lighting/blend-0-reflection-volume.png" alt="Blend Distance '0'"><figcaption><p>Blend Distance '0'</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/images/lighting/blend-15-reflection-volume.png" alt="Blend Distance '15'"><figcaption><p>Blend Distance '15'</p></figcaption></figure>
+
+</div>

@@ -4,9 +4,11 @@
 
 Object that plays a sound at its location. Audio can be also controlled using Node Graph functions.
 
-### Object Properties
+![Audio Emitter](../../../.gitbook/assets/images/objects/gameplay/audio/audio-emitter.png)
 
-#### Advanced Properties
+## Object Properties
+
+### Advanced Properties
 
 - Friendly Sounds
   - Category
