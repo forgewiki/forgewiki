@@ -1,8 +1,8 @@
+---
+description: Kinetic launcher used by the Forerunner.
+---
+
 # Kinetic Launcher Forerunner
-
-## Description
-
-Kinetic launcher used by the Forerunner.
 
 ![Kinetic Launcher Forerunner](../../../.gitbook/assets/images/objects/gameplay/launchers-lifts/kinetic-launcher-forerunner.png)
 
