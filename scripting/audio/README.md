@@ -20,7 +20,7 @@ Nodes that interact with audio within the level.
         <td><strong>Play 3D Audio For All Players</strong></td>
         <td></td>
         <td></td>
-        <td><a href="../../.gitbook/assets/images/scripting/audio/play-3d-audio-for-all-players.png">play-3d-audio-for-all-players.png</a></td>
+        <td><a href="../../.gitbook/assets/images/scripting/audio/play-3d-audio-for-all-players-small.png">play-3d-audio-for-all-players-small.png</a></td>
         <td><a href="play-3d-audio-for-all-players.md">play-3d-audio-for-all-players.md</a></td>
     </tr>
     <tr>
