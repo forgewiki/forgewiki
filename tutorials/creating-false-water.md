@@ -42,7 +42,8 @@ description: Create false water, by using reflection volumes and modifying primi
        * [Every N Seconds](../scripting/events-events-custom/every-n-seconds.md) (Events Custom/Every N Seconds)
        * [Translate Object To Point](../scripting/objects-transform/translate-object-to-point.md) (Objects Transform/Translate Object To Point)
     3. See reference image to help create a movement effect of the Terrain Flat
-    ![False Water - Terrain Flat Movement](../.gitbook/assets/images/tutorials/create-false-water-1.png)
+
+![False Water - Terrain Flat Movement Script Brain](../.gitbook/assets/images/tutorials/create-false-water-1.png)
    
 {% hint style="info" %}
 
