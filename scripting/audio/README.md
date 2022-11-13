@@ -65,6 +65,4 @@ Nodes that interact with audio within the level.
         <td><a href="../../.gitbook/assets/images/scripting/audio/unregister-audio-zone-thumb.png">unregister-audio-zone-thumb.png</a></td>
         <td><a href="unregister-audio-zone.md">unregister-audio-zone.md</a></td>
     </tr>
-   
-    
 </tbody>
