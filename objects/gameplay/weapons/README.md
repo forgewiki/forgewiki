@@ -89,7 +89,6 @@ Weapons for all of your combat needs
     </tr>    
 </tbody>
 
-
 <!-- * [Duelist Energy Sword](duelist-energy-sword.md)
 * [Elite Bloodblade](elite-bloodblade.md)
 * [Energy Sword](energy-sword.md)
