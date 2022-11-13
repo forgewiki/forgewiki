@@ -1,5 +1,7 @@
+---
+description: Modified firing core with a three-phase sequential detonation.
+---
+
 # Backdraft Cindershot
 
-## Description
-
-Modified firing core with a three-phase sequential detonation.
+![Backdraft Cindershot](../../../.gitbook/assets/images/objects/gameplay/weapons/backdraft-cindershot.png)

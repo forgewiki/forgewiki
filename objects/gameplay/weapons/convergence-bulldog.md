@@ -1,5 +1,7 @@
+---
+description: High capacity magazine with tighter projectile spread and improved range.
+---
+
 # Convergence Bulldog
 
-## Description
-
-High capacity magazine with tighter projectile spread and improved range.
+![Convergence Bulldog](../../../.gitbook/assets/images/objects/gameplay/weapons/convergence-bulldog.png)
