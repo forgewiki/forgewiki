@@ -1,5 +1,6 @@
+---
+description: Undocumented Sentinel Beam that offers lower capacity but extremely increased damage.
+---
 # Arcane Sentinel Beam
 
-## Description
-
-Undocumented Sentinel Beam that offers lower capacity but extremely increased damage.
+![Arcane Sentinel Beam](../../../.gitbook/assets/images/objects/gameplay/weapons/arcane-sentinel-beam.png)
