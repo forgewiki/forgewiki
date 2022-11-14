@@ -17,3 +17,7 @@ Inputs:
 
 - Area Monitor
 - Audio Zone Effect
+
+|||
+|:-- | :--|
+|Audio Zone Effect|<ul><li>Footsteps, Muffled</li><li>Footsteps, Muted</li></ul>|
