@@ -49,14 +49,14 @@ Objects used for Node Graph scripting.
         <td><strong>Scriptable Switch Banished Tounchpanel</strong></td>
         <td></td>
         <td></td>
-        <td><a href="../../../.gitbook/assets/images/objects/gameplay/scripting/scriptable-switch-banished-tounchpanel.png">scriptable-switch-banished-tounchpanel.png</a></td>
-        <td><a href="scriptable-switch-banished-tounchpanel.md">scriptable-switch-banished-tounchpanel.md</a></td>
+        <td><a href="../../../.gitbook/assets/images/objects/gameplay/scripting/scriptable-switch-banished-touchpanel.png">scriptable-switch-banished-tounchpanel.png</a></td>
+        <td><a href="scriptable-switch-banished-touchpanel.md">scriptable-switch-banished-tounchpanel.md</a></td>
     </tr>
     <tr>
         <td><strong>Scriptable Switch Banished Tounchpanel Wall</strong></td>
         <td></td>
         <td></td>
-        <td><a href="../../../.gitbook/assets/images/objects/gameplay/scripting/scriptable-switch-banished-tounchpanel-wall.png">scriptable-switch-banished-tounchpanel-wall.png</a></td>
+        <td><a href="../../../.gitbook/assets/images/objects/gameplay/scripting/scriptable-switch-banished-touchpanel-wall.png">scriptable-switch-banished-tounchpanel-wall.png</a></td>
         <td><a href="scriptable-switch-banished-tounchpanel-wall.md">scriptable-switch-banished-tounchpanel-wall.md</a></td>
     </tr>
     <tr>
