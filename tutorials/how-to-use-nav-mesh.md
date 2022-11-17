@@ -12,7 +12,7 @@ Properly setup your Forge map that supports Bot gameplay.
 
 ## Steps
 
-1. Place Nav Seed Point in desired location.
+### Place Nav Seed Point in desired location.
 
 {% hint style="info" %}
 If your forge map does not use the natural terrain of the forge canvas or if the base flooring is combination of natural terrain and forge pieces, placing a Nav Seed Point helps with Bots being playable on your forge map.
@@ -20,7 +20,7 @@ If your forge map does not use the natural terrain of the forge canvas or if the
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-seed-point.png)
 
-2. Open the Build Menu and build Nav Mesh
+### Open the Build Menu and build Nav Mesh
    * To get to the Build Menu, hold the **Y** button on the controller to access the Tools Menu and move the thumbstick to the right and select **Build Menu**
    * Navigate down the list of build options, highlight **Nav Mesh** and then select **Build Selected** to build the Nav Mesh on the forge map.
 
@@ -28,7 +28,7 @@ If your forge map does not use the natural terrain of the forge canvas or if the
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-build-nav-mesh.png)
 
-1. Turn on Nav Mesh Visualization.
+### Turn on Nav Mesh Visualization.
    * Open the Forge Menu and navigate over to **Tool Settings**.
    * Scroll down through the list of tool settings to Nav Mesh Visualization and turn **On** the setting.
 
@@ -44,16 +44,16 @@ If you still can't see the Nav Mesh, validate the Nav Seed Point is placed on th
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-view-nav-mesh.png)
 
 
-4. Validate Bot gameplay after initial Nav Mesh build, this is a good time to verify the all areas are fully populated for Bot movements.
+### Validate Bot gameplay after initial Nav Mesh build, this is a good time to verify the all areas are fully populated for Bot movements.
 
-5. If extra Bot movement pathing is needed, it might be useful to place an extra Nav Seed Point.
+### If extra Bot movement pathing is needed, it might be useful to place an extra Nav Seed Point.
    * Placing another Nav Seed Point will help Bots to identify all intended playable spaces.
   
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-non-populated-floors.png)
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-extra-nav-seed-point.png)
 
-6. Using Jump Hints to help Bot traversal movements
+### Using Jump Hints to help Bot traversal movements
    * If the intended jump hint was not built properly with the default Nav Mesh build, you can place either a Jump Hint One Way or Jump Hint Two Way to help Bots understand the intended jump spaces.
   
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-using-jump-hint.png)
@@ -66,7 +66,7 @@ If you still can't see the Nav Mesh, validate the Nav Seed Point is placed on th
 Bots have a max jump height, so validate the jump hint is not too high or too far of a jump for the bot.
 {% endhint %}
 
-7. Place and Name Bot Nav Markers for setting up neighbor options - Workflow Enhancement
+### Place and Name Bot Nav Markers for setting up neighbor options - Workflow Enhancement
    * Place Bot Nav Markers around the map on points of interests
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-bot-explore-points.png)
@@ -85,7 +85,7 @@ When you're completed placing Nav Markers, to change your working folder so that
 {% endhint %}
 
 
-8. Setting up Neighbor Options
+### Setting up Neighbor Options
 
 {% hint style="info" %}
 **What are Neighbor Options**
