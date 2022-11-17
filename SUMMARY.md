@@ -25,6 +25,7 @@
 ## Tutorials
 
 * [Create False Water](tutorials/creating-false-water.md)
+* [How to Use Nav Mesh](tutorials/how-to-use-nav-mesh.md)
 
 ## Lighting
 
