@@ -48,11 +48,14 @@ If you still can't see the Nav Mesh, validate the Nav Seed Point is placed on th
 
 5. If extra Bot movement pathing is needed, it might be useful to place an extra Nav Seed Point.
    * Placing another Nav Seed Point will help Bots to identify all intended playable spaces.
+  
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-non-populated-floors.png)
+
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-extra-nav-seed-point.png)
 
 6. Using Jump Hints to help Bot traversal movements
    * If the intended jump hint was not built properly with the default Nav Mesh build, you can place either a Jump Hint One Way or Jump Hint Two Way to help Bots understand the intended jump spaces.
+  
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-using-jump-hint.png)
 
    * When placing a Jump Hint, make sure the bottom corners of the volume are merged into the geo for the Jump Hint to populate properly.
@@ -84,10 +87,8 @@ When you're completed placing Nav Markers, to change your working folder so that
 
 8. Setting up Neighbor Options
 
-
-
 {% hint style="info" %}
-** What are Neighbor Options **
+**What are Neighbor Options**
 
 Neighbor Options is when the bot is navigating around the map and when gets to its destination point and it will then determine which next Bot Nav Marker it wants to go towards next.
 
