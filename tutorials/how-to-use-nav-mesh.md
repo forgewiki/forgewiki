@@ -1,4 +1,4 @@
-# How To Use Nav Mesh
+# How to Use Nav Mesh
 
 ## Description
 
@@ -21,45 +21,49 @@ If your forge map does not use the natural terrain of the forge canvas or if the
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-seed-point.png)
 
 ### Open the Build Menu and build Nav Mesh
-   * To get to the Build Menu, hold the **Y** button on the controller to access the Tools Menu and move the thumbstick to the right and select **Build Menu**
-   * Navigate down the list of build options, highlight **Nav Mesh** and then select **Build Selected** to build the Nav Mesh on the forge map.
+
+* To get to the Build Menu, hold the **Y** button on the controller to access the Tools Menu and move the thumbstick to the right and select **Build Menu**
+* Navigate down the list of build options, highlight **Nav Mesh** and then select **Build Selected** to build the Nav Mesh on the forge map.
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-build-menu.png)
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-build-nav-mesh.png)
 
 ### Turn on Nav Mesh Visualization.
-   * Open the Forge Menu and navigate over to **Tool Settings**.
-   * Scroll down through the list of tool settings to Nav Mesh Visualization and turn **On** the setting.
+
+* Open the Forge Menu and navigate over to **Tool Settings**.
+* Scroll down through the list of tool settings to Nav Mesh Visualization and turn **On** the setting.
 
 {% hint style="info" %}
 If you cannot see the Nav Mesh on your map, make sure your crosshairs are pointed towards the floor and not a wall.
 
 If you still can't see the Nav Mesh, validate the Nav Seed Point is placed on the ground and rebuild the Nav Mesh data.
-
 {% endhint %}
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-tool-setting-nav-mesh-visualization.png)
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-view-nav-mesh.png)
 
-
-### Validate Bot gameplay after initial Nav Mesh build, this is a good time to verify the all areas are fully populated for Bot movements.
+{% hint style="info" %}
+Validate Bot gameplay after initial Nav Mesh build, this is a good time to verify the all areas are fully populated for Bot movements.
+{% endhint %}
 
 ### If extra Bot movement pathing is needed, it might be useful to place an extra Nav Seed Point.
-   * Placing another Nav Seed Point will help Bots to identify all intended playable spaces.
-  
+
+* Placing another Nav Seed Point will help Bots to identify all intended playable spaces.
+
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-non-populated-floors.png)
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-extra-nav-seed-point.png)
 
 ### Using Jump Hints to help Bot traversal movements
-   * If the intended jump hint was not built properly with the default Nav Mesh build, you can place either a Jump Hint One Way or Jump Hint Two Way to help Bots understand the intended jump spaces.
-  
+
+* If the intended jump hint was not built properly with the default Nav Mesh build, you can place either a Jump Hint One Way or Jump Hint Two Way to help Bots understand the intended jump spaces.
+
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-using-jump-hint.png)
 
-   * When placing a Jump Hint, make sure the bottom corners of the volume are merged into the geo for the Jump Hint to populate properly.
-    
+* When placing a Jump Hint, make sure the bottom corners of the volume are merged into the geo for the Jump Hint to populate properly.
+
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-using-jump-hint-geo.png)
 
 {% hint style="info" %}
@@ -67,23 +71,22 @@ Bots have a max jump height, so validate the jump hint is not too high or too fa
 {% endhint %}
 
 ### Place and Name Bot Nav Markers for setting up neighbor options - Workflow Enhancement
-   * Place Bot Nav Markers around the map on points of interests
+
+* Place Bot Nav Markers around the map on points of interests
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-bot-explore-points.png)
 
-   * Name each explore point uniquely so it's easier to find within the folders and when setting up the neighbor options for a better workflow experience.
-     * If setting up each explore point uniquely isn't the best workflow for you, you can still use the default **Bot Nav Marker** and add a unique description to the location for identifiable reasons
-   * Another approach is by creating a separate folder in your 'Forge Menu - Folders', name the folder as **Nav Markers** and set that folder as your working folder.
+* Name each explore point uniquely so it's easier to find within the folders and when setting up the neighbor options for a better workflow experience.
+  * If setting up each explore point uniquely isn't the best workflow for you, you can still use the default **Bot Nav Marker** and add a unique description to the location for identifiable reasons
+* Another approach is by creating a separate folder in your 'Forge Menu - Folders', name the folder as **Nav Markers** and set that folder as your working folder.
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-rename-nav-marker.png)
 
-![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-nav-marker-folder.png)
-![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-nav-marker-working-folder.png)
+![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-nav-marker-folder.png) ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-nav-marker-working-folder.png)
 
 {% hint style="info" %}
 When you're completed placing Nav Markers, to change your working folder so that you are not spawning unwanted objects in the incorrect folder.
 {% endhint %}
-
 
 ### Setting up Neighbor Options
 
@@ -94,8 +97,7 @@ Neighbor Options is when the bot is navigating around the map and when gets to i
 
 If a bot requires a weapon, game mode objective or an enemy player they will prioritize objectives before heading towards the next location.
 
-When testing or playing your map and if you see bots clustered in one location, it usually means the bots don't have another Nav Marker to go towards, objectives to complete or weapons they don't need on the on the map.  
-
+When testing or playing your map and if you see bots clustered in one location, it usually means the bots don't have another Nav Marker to go towards, objectives to complete or weapons they don't need on the on the map.
 {% endhint %}
 
 Once all the Nav markers have been properly placed and labeled, Neighbor Option can now be set up.
