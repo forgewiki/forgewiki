@@ -12,7 +12,7 @@ Properly setup your Forge map that supports Bot gameplay.
 
 ## Steps
 
-### Place Nav Seed Point in desired location.
+### Place Nav Seed Point in desired location
 
 {% hint style="info" %}
 If your forge map does not use the natural terrain of the forge canvas or if the base flooring is combination of natural terrain and forge pieces, placing a Nav Seed Point helps with Bots being playable on your forge map.
@@ -29,7 +29,7 @@ If your forge map does not use the natural terrain of the forge canvas or if the
 
 ![](../.gitbook/assets/images/tutorials/nav-mesh-tutorial-build-nav-mesh.png)
 
-### Turn on Nav Mesh Visualization.
+### Turn on Nav Mesh Visualization
 
 * Open the Forge Menu and navigate over to **Tool Settings**.
 * Scroll down through the list of tool settings to Nav Mesh Visualization and turn **On** the setting.
@@ -48,7 +48,7 @@ If you still can't see the Nav Mesh, validate the Nav Seed Point is placed on th
 Validate Bot gameplay after initial Nav Mesh build, this is a good time to verify the all areas are fully populated for Bot movements.
 {% endhint %}
 
-### If extra Bot movement pathing is needed, it might be useful to place an extra Nav Seed Point.
+### If extra Bot movement pathing is needed, it might be useful to place an extra Nav Seed Point
 
 * Placing another Nav Seed Point will help Bots to identify all intended playable spaces.
 
@@ -93,7 +93,7 @@ When you're completed placing Nav Markers, to change your working folder so that
 {% hint style="info" %}
 **What are Neighbor Options**
 
-Neighbor Options is when the bot is navigating around the map and when gets to its destination point and it will then determine which next Bot Nav Marker it wants to go towards next.
+Neighbor Options is when the bot is navigating around the map and when gets to its destination point and it will then determine which Bot Nav Marker it wants to go towards next.
 
 If a bot requires a weapon, game mode objective or an enemy player they will prioritize objectives before heading towards the next location.
 
