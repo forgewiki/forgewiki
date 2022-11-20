@@ -18,6 +18,7 @@ Where the building process begins, on a canvas.
 Desert themed, on a Halo ring.
 
 ![Arid](../.gitbook/assets/images/understanding-the-basics/arid.png)
+
 ### Ecliptic
 
 Outer space map, no terrain, planets in skybox.
