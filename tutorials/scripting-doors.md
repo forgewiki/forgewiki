@@ -17,33 +17,50 @@
 
 ### Steps
 
-1. Place down the required objects
-   * 2 - Double Doorway; Stacked back to back
-   * 4 - Floor Standard; side by side in the middle of the doorway
-   * 1 - Script Brain
-   * 1 - Scriptable Switch (Invisible)
+#### Add required objects
+
+Add the required objects to map in order to setup a scripted double doorway.
+
+* 2 - Double Doorway; Stacked back to back
+* 4 - Floor Standard; side by side in the middle of the doorway
+* 1 - Script Brain
+* 1 - Scriptable Switch (Invisible)
 
 ![](../.gitbook/assets/images/tutorials/creating-doors-double-doors-1.png)
 
-1. Select the Scriptable Switch, then go into Node Graph and place an **Add Object Reference** to the Scriptable Switch.
+#### Object Reference - Switch 
+
+Select the Scriptable Switch, then go into Node Graph and place an **Add Object Reference** to the Scriptable Switch.
 
 ![Add Object Reference Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-2.png)
 
 ![Object Reference - Scriptable Switch](../.gitbook/assets/images/tutorials/creating-doors-double-doors-3.png)
 
-1. Add Object Reference nodes to each Floor Standard objects, similar to the step above.
+
+#### Object Reference - Floors (Doors)
+
+Add Object Reference nodes to each Floor Standard objects, similar to the step above.
 
 ![Object Reference - Floors](../.gitbook/assets/images/tutorials/creating-doors-double-doors-7.png)
 
-1. Add **Move Object to Transform** node and then an **On Object Interacted** node
+
+#### Add Script Nodes
+
+Add **Move Object to Transform** node and then an **On Object Interacted** node
 
 ![Move Object to Transform Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-4.png)
 
 ![On Object Interacted Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-5.png)
 
-1. Connect the nodes; See [reference](scripting-doors.md#reference)
+#### Configure Script Nodes
+
+Connect the nodes; See [reference](scripting-doors.md#reference)
 
 ![](../.gitbook/assets/images/tutorials/creating-doors-double-doors-6.png)
+
+{% hint style="info" %}
+If you prefer to have a faster or slower door movement speed, adjust the amount of seconds on the **Move Object To Transform** node _Duration In Seconds_.
+{% endhint %}
 
 ### Result
 
