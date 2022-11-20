@@ -77,9 +77,8 @@ Credit: Aozolai ([youtube](https://www.youtube.com/watch?v=KlkuuNG8g90\&t=35s\&a
 * Keep ground objects <1 to avoid blocking walk movement
 * Keep jumping obstacles < to allow jumps without climbing ledge
 
-
-
-### Jump standards
+<!-- ////////// DRAFT FOR FUTURE UPDATE //// -->
+<!-- ### Jump standards
 
 * Max horizontal distance for sprint jump
 * Distances for grapple hook (max distance, ideal distance)
@@ -101,11 +100,11 @@ Credit: Aozolai ([youtube](https://www.youtube.com/watch?v=KlkuuNG8g90\&t=35s\&a
 
 * small
 * medium
-* large
+* large 
 
 ## Level Verticality
 
 * single floor = 22
 * two floors = 44
 * three floors = 66
-* how to use stair prefabs with scale consistency in mind
+* how to use stair prefabs with scale consistency in mind -->
