@@ -1087,6 +1087,12 @@
   * [Set Spawn In Vehicle For Player](scripting/vehicles/set-spawn-in-vehicle-for-player.md)
   * [Set Vehicle Enterable By Player](scripting/vehicles/set-vehicle-enterable-by-player.md)
 
+## Troubleshooting
+
+* [FAQs](troubleshooting/frequently-asked-questions.md)
+* [How Can I Contact Support](troubleshooting/how-do-i-contact-support.md)
+* [How Can I Report Bugs](troubleshooting/how-do-i-report-bugs.md)
+
 ## Contributors
 
 * [How can I help?](contributors/how-can-i-help/README.md)
@@ -1103,7 +1109,6 @@
 
 * [Glossary](resources/glossary.md)
 * [Release Notes](resources/release-notes.md)
-* [Frequently Asked Questions](resources/frequently-asked-questions.md)
 * [General Disclaimer](resources/general-disclaimer.md)
 * [Copyrights](resources/copyrights.md)
 
