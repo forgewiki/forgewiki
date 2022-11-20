@@ -1,23 +1,26 @@
 ---
-description: Translates the _Object_ to the desired _Position_ over the _Duration in Seconds_. Optionally provide a _Movement Curve_ to make the animation non-linear. Use **Move Object to Transform** if moving something in sequence.
+description: >-
+  Translates the _Object_ to the desired _Position_ over the _Duration in
+  Seconds_. Optionally provide a _Movement Curve_ to make the animation
+  non-linear. Use **Move Object to Transform** if moving som
 ---
 
-# Translate Object To Point
+# Translate Object to Point
 
 ## Arguments
 
 Actions:
 
-- Input
-- Output
+* Input
+* Output
 
 Inputs:
 
-- Object
-- Position
-- Duration In Seconds
-- Movement Curve
+* Object
+* Position
+* Duration In Seconds
+* Movement Curve
 
 Outputs:
 
-- Position
+* Position

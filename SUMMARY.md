@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Welcome to Forge Wiki](README.md)
-* [Page 1](page-1.md)
 
 ## Getting Started
 
