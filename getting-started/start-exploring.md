@@ -3,7 +3,7 @@
 {% hint style="info" %}
 Majority of the sections are a WIP as there are a lot of items to capture screenshots, details, etc. We'll continue to expand Forge Wiki as time permits.
 
-Anyone can [contribute](../contributors/how-can-i-help/documenting/documenting.md) to Forge Wiki.
+Anyone can <mark style="color:blue;"></mark> [<mark style="color:blue;">contribute</mark>](../contributors/how-can-i-help/documenting/documenting.md) to Forge Wiki.
 {% endhint %}
 
 ## Understanding the Basics
@@ -27,6 +27,14 @@ Want to learn about how to setup game modes for your forge map? This is the sect
 Tutorials, help documents and more!
 
 Anyone can and should contribute to this section. We're all here to share the knowledge of Halo Infinite's Forge, this will be the place to find it!
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+## Lighting
+
+Learn how to set the tone the of your map.&#x20;
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
