@@ -25,31 +25,29 @@
 
 ![](../.gitbook/assets/images/tutorials/creating-doors-double-doors-1.png)
 
-2. Select the Scriptable Switch, then go into Node Graph and place an **Add Object Reference** to the Scriptable Switch.
+1. Select the Scriptable Switch, then go into Node Graph and place an **Add Object Reference** to the Scriptable Switch.
 
 ![Add Object Reference Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-2.png)
 
 ![Object Reference - Scriptable Switch](../.gitbook/assets/images/tutorials/creating-doors-double-doors-3.png)
 
-3. Add Object Reference nodes to each Floor Standard objects, similar to the step above.
+1. Add Object Reference nodes to each Floor Standard objects, similar to the step above.
 
 ![Object Reference - Floors](../.gitbook/assets/images/tutorials/creating-doors-double-doors-7.png)
 
-4. Add **Move Object to Transform** node and then an **On Object Interacted** node
+1. Add **Move Object to Transform** node and then an **On Object Interacted** node
 
 ![Move Object to Transform Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-4.png)
 
 ![On Object Interacted Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-5.png)
 
-5. Connect the nodes; See [reference](#reference)
+1. Connect the nodes; See [reference](scripting-doors.md#reference)
 
 ![](../.gitbook/assets/images/tutorials/creating-doors-double-doors-6.png)
 
 ### Result
 
-{% embed url="https://i.imgur.com/9FsTs42.mp4" %}
-Double Doors
-{% endembed %}
+<figure><img src="https://i.imgur.com/IRceB9F.gif" alt=""><figcaption><p>Double Doors - Open</p></figcaption></figure>
 
 ## Reference
 
