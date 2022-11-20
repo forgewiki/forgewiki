@@ -11,6 +11,7 @@
 
 * [Controller Layouts](getting-started/controller-layouts.md)
 * [Forge Canvas](understanding-the-basics/forge-canvas.md)
+* [Forge Map Scale](understanding-the-basics/forge-map-scale.md)
 
 ## Game Modes
 
