@@ -51,6 +51,6 @@ designated team
 
 What this will do is will disable any spawn from any other teams expect the destinated team that was set up above.  
 
-Why we set up the weight to be 0 so the volume doesn’t create any positive weighting for these zones the next section will set up weighted volumes. So its best to sperate Team designated volumes from weighted volumes to give the user better control over how their map behaves. 
+Why we set up the weight to be 0 so the volume doesn’t create any positive weighting for these zones the next section will set up weighted volumes. So its best to sperate Team designated volumes from weighted volumes to give the user better control over how their map behaves.
 
 After these are set up Feel free to scale the size and placement of the volume to your desire on how you want your map to play. Usually you will just want to cover the designated team side of the map. You can create over lap but this will make it so no one will spawn in this location. Flip side if you decide not to create over lap you will create a neutral location where both teams can spawn. 

@@ -1,8 +1,8 @@
----
-description: Get the world position of the _Object_
----
-
 # Get Object Position
+
+## Description
+
+Get the world position of the _Object_
 
 ## Arguments
 

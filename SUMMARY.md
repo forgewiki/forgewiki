@@ -21,6 +21,7 @@
 
 * [Create False Water](tutorials/creating-false-water.md)
 * [How to Use Nav Mesh](tutorials/how-to-use-nav-mesh.md)
+* [Scripting Doors](tutorials/scripting-doors.md)
 
 ## Lighting
 
@@ -820,6 +821,10 @@
     * [VK78 Commando Rifle](objects/gameplay/weapons/vk78-commando-rifle.md)
     * [Volatile Skewer](objects/gameplay/weapons/volatile-skewer.md)
 * [Halo Design Set](objects/halo-design-set/README.md)
+  * [Doorways](objects/halo-design-set/doorways/README.md)
+    * [Double Doorway](objects/halo-design-set/doorways/double-doorway.md)
+  * [Floors](objects/halo-design-set/floors/README.md)
+    * [Floor Standard](objects/halo-design-set/floors/floor-standard.md)
 * [Lights](objects/lights/README.md)
   * [Generic Light Objects](objects/lights/generic-light-objects/README.md)
     * [Light Probe Marker](objects/lights/generic-light-objects/light-probe-marker.md)
@@ -1055,6 +1060,7 @@
 * [Objects](scripting/objects/README.md)
 * [Objects Transform](scripting/objects-transform/README.md)
   * [Get Object Position](scripting/objects-transform/get-object-position.md)
+  * [Move Object to Transform](scripting/objects-transform/move-object-to-transform.md)
   * [Translate Object to Point](scripting/objects-transform/translate-object-to-point.md)
 * [Players](scripting/players/README.md)
 * [Traits](scripting/traits/README.md)
@@ -1062,6 +1068,7 @@
 * [UI Nav Markers](scripting/ui-nav-markers/README.md)
 * [Variables Advanced](scripting/variables-advanced/README.md)
 * [Variables Basic](scripting/variables-basic/README.md)
+  * [Objects Reference](scripting/variables-basic/object-reference.md)
   * [Vector3](scripting/variables-basic/vector3.md)
 * [Vehicles](scripting/vehicles/README.md)
   * [Are Same Vehicle Type](scripting/vehicles/are-same-vehicle-type.md)
