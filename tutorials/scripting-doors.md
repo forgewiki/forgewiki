@@ -2,20 +2,20 @@
 
 ## Double Doors
 
-### Double Doors - Required Objects
+### Required Objects
 
 * [Double Doorway](../objects/halo-design-set/doorways/double-doorway.md)
 * [Floor Standard](../objects/halo-design-set/floors/floor-standard.md)
 * [Script Brain](../objects/gameplay/scripting/script-brain.md)
 * [Scriptable Switch (Invisible)](../objects/gameplay/scripting/scriptable-switch-invisible.md)
 
-### Double Doors - Required Nodes
+### Required Nodes
 
 * [Move Object to Transform](../scripting/objects-transform/move-object-to-transform.md)
 * [Object Reference](../scripting/variables-basic/object-reference.md)
 * [On Object Interacted](../scripting/events-custom/on-object-interacted.md)
 
-### Double Doors - Steps
+### &#x20;Steps
 
 #### Add required objects
 
@@ -36,13 +36,11 @@ Select the Scriptable Switch, then go into Node Graph and place an **Add Object 
 
 ![Object Reference - Scriptable Switch](../.gitbook/assets/images/tutorials/creating-doors-double-doors-3.png)
 
-
 #### Object Reference - Floors (Doors)
 
 Add Object Reference nodes to each Floor Standard objects, similar to the step above.
 
 ![Object Reference - Floors](../.gitbook/assets/images/tutorials/creating-doors-double-doors-7.png)
-
 
 #### Add Script Nodes
 
@@ -62,20 +60,20 @@ Connect the nodes; See [reference](scripting-doors.md#reference)
 If you prefer to have a faster or slower door movement speed, adjust the amount of seconds on the **Move Object To Transform** node _Duration In Seconds_.
 {% endhint %}
 
-### Double Doors - Result
+### Result
 
 <figure><img src="https://i.imgur.com/IRceB9F.gif" alt=""><figcaption><p>Double Doors - Open</p></figcaption></figure>
 
 ## Automatic Doors
 
-### Automatic Doors - Required Objects
+### Required Objects
 
 * [Single Doorway A](../objects/halo-design-set/doorways/single-doorway-a.md)
 * [Floor Standard](../objects/halo-design-set/floors/floor-standard.md)
 * [Script Brain](../objects/gameplay/scripting/script-brain.md)
 * [Pointer](../objects/gameplay/scripting/pointer.md)
 
-### Automatic Doors - Required Nodes
+### Required Nodes
 
 * [Area Monitor](../scripting/variables-basic/area-monitor.md)
 * [Branch](../scripting/logic/branch.md)
@@ -84,7 +82,7 @@ If you prefer to have a faster or slower door movement speed, adjust the amount 
 * [On Object Entered Area](../scripting/events/on-object-entered-area.md)
 * [On Object Exited Area](../scripting/events/on-object-exited-area.md)
 
-### Automatic Doors -  Steps
+### Steps
 
 {% hint style="info" %}
 _Optional_
@@ -111,43 +109,43 @@ Add the required objects to map in order to setup a scripted automatic doorway.
 
 Add Object Reference nodes to each Floor Standard objects, then go into Node Graph and place an **Add Object Reference** for the doors.
 
-![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-11.png)
+![Object Reference - Doors](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-11.png)
 
 #### Object Reference - Pointers
 
 Select the Detector Pointer, then go into Node Graph and place an **Add Object Reference** to the Pointer.
 
-![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-12.png)
+![Object Reference - Pointers](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-12.png)
 
 #### Set Pointer Boundary
 
 Select and place the pointer in the desired placement. Set the boundary that fits the size of where you would like to monitor player movements.
 
-![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-1.png)
+![Detector - Boundary](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-1.png)
 
-![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-7.png)
+![Detector - Boundary](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-7.png)
 
-![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-10.png)
+![Area Monitor Boundary](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-10.png)
 
 #### Set Reference Pointer
 
 In order to close the door properly, the door must have a Destination Point to reference. Copy the coordinates of the **Closed** door to the same point as the reference pointer, this will ensure the door closes to its original coordinates.
 
-![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-8.png)
+![Reference Pointer Coordinates](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-8.png)
 
-![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-9.png)
+![Door Original Coordinates](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-9.png)
 
 #### Configure Script Nodes
 
 Connect the nodes; See [reference](scripting-doors.md#reference)
 
-![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-5.png)
+![Automatic Doors - Script](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-5.png)
 
 {% hint style="info" %}
 In order for the script to properly run, you must have the references set correctly. Review the reference video on automatic doors for more information.
 {% endhint %}
 
-### Automatic Doors -  Result
+### Result
 
 <figure><img src="https://i.imgur.com/jx4Ep53.gif" alt=""><figcaption><p>Automatic Doors - Open and Close</p></figcaption></figure>
 
