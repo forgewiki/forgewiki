@@ -5,14 +5,7 @@
 ## Getting Started
 
 * [Start Exploring Forge Wiki](getting-started/start-exploring.md)
-* [Getting Started with Halo Infinite Forge](getting-started/README.md)
-<!-- * [Forge History](getting-started/forge-history.md)
-* [Tutorials](getting-started/tutorials/README.md)
-  * [Create your first forge map](getting-started/tutorials/create-your-first-forge-map.md)
-
-## What's New
-
-* [Site Updates](whats-new/site-updates.md) -->
+* [Getting Started with Forge](getting-started/README.md)
 
 ## Understanding the Basics
 
