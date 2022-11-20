@@ -1,10 +1,8 @@
----
-description: >-
-  Create false water, by using reflection volumes and modifying primitive object
-  materials
----
-
 # Create False Water
+
+## Description
+
+Create false water, by using reflection volumes and modifying primitive object materials.
 
 ## Required Objects
 
@@ -28,13 +26,13 @@ description: >-
 
 ![Terrain Flat - Properties](../.gitbook/assets/images/tutorials/create-false-water-3.png)
 
-1. Place Reflection Volume over the Terrain Flat piece
+2. Place Reflection Volume over the Terrain Flat piece
    * Change the Boundary size of the Reflection Volume. This is necessary to help reflect the lighting off of metal surface objects, in this case the Terrain Flat.
    * _Note: Make sure the volume in covers the entire terrain flat piece or the desired area that is intended for displaying False Water effect._
 
 ![Reflection Volume](../.gitbook/assets/images/tutorials/create-false-water-4.png)
 
-1. Creating the false movement of water, the need to move the Terrain Flat piece is essential in creating the look of moving water.
+3. Creating the false movement of water, the need to move the Terrain Flat piece is essential in creating the look of moving water.
    1. Select the Terrain Flat object and then open Node Graph
       * Press '**Y**' and select '**Add Object Reference**
    2. After the Object Reference node has been placed, add these nodes to help simulate movement of the Terrain Flat object.
@@ -51,14 +49,17 @@ description: >-
 Create your script brain in a similar fashion in order to help move the object in three different directions. To change the speed or the distance of the Terrain Flat object, make minor adjustments to the 'Vector3', 'Every N Seconds', 'Translate Object To Point' nodes.
 {% endhint %}
 
-1. Place FX Forerunner Energy Barrier just above the Terrain Flat object
+4. Place FX Forerunner Energy Barrier just above the Terrain Flat object
    * Change the FX Color 1 and FX Color 2 to the desired colors
 
 ![FX Forerunner Energy Barrier 48x28](../.gitbook/assets/images/tutorials/create-false-water-5.png)
 
-1. Duplicate the FX Forerunner Energy Barrier until the covered area is complete.
+5. Duplicate the FX Forerunner Energy Barrier until the covered area is complete.
 
 ![Build Reflection Volumes](../.gitbook/assets/images/tutorials/create-false-water-6.png)
+
+
+## Reference
 
 See the reference video by Paimon on the completed look!
 
