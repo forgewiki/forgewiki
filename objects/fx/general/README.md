@@ -17,4 +17,4 @@ General effects.
 * [FX Plus](fx-plus.md)
 * [FX Slipspace](fx-slipspace.md)
 * [FX Square](fx-square.md)
-* [FX Triangle](fx-triangle.md)
+* [FX Triangle](../holograms/fx-covenant-galaxy.md)
