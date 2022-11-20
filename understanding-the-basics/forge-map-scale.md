@@ -14,11 +14,11 @@ Use the supported Markdown styling guide: <https://docs.github.com/en/get-starte
 
 **Reference for best practices**: Reference this level design article for guidance on how to set up best practices for Halo Infinite Forge [here](https://book.leveldesignbook.com/process/blockout/metrics)) -->
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|  Grid | Imperial unit  | Notes  |
+| -  | - | - |
+| 1  |   |   |
+| 2  |   |   |
+| 4  |   |   |
 
 ## Common scales based on intended player experience
 
