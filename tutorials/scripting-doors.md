@@ -8,7 +8,7 @@ Create scriptable doors that make your map more interactive.
 |:--|:--|
 |**Title**| How to Forge Interactive Maps in Halo Infinite |
 |**Created By** | [@RedNomster](https://twitter.com/RedNomster)|
-|**Reference URL**| https://youtu.be/m3u7XaHU47k|
+|**Reference URL**| [https://youtu.be/m3u7XaHU47k](https://youtu.be/m3u7XaHU47k)|
 
 ## Double Doors
 

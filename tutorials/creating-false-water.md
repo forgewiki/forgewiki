@@ -8,7 +8,7 @@ Create false water, by using reflection volumes and modifying primitive object m
 |:--|:--|
 |**Title**| False Water Tutorial|
 |**Created By** | [@OmniPaimon](https://twitter.com/OmniPaimon)|
-|**Reference URL**| https://www.youtube.com/watch?v=I0nDlsi3Za8|
+|**Reference URL**| [https://youtu.be/I0nDlsi3Za8](https://youtu.be/I0nDlsi3Za8)|
 
 ## Required Objects
 
