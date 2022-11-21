@@ -1,5 +1,15 @@
 # Scripting Doors
 
+## Description
+
+Create scriptable doors that make your map more interactive.
+
+|||
+|:--|:--|
+|**Title**| How to Forge Interactive Maps in Halo Infinite |
+|**Created By** | [@RedNomster](https://twitter.com/RedNomster)|
+|**Reference URL**| https://youtu.be/m3u7XaHU47k|
+
 ## Double Doors
 
 ### Double Doors - Required Objects
@@ -139,7 +149,7 @@ In order to close the door properly, the door must have a Destination Point to r
 
 #### Configure Script Nodes
 
-Connect the nodes; See [reference](scripting-doors.md#reference)
+Connect the nodes; See [reference](scripting-doors.md#references)
 
 ![](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-5.png)
 
@@ -151,10 +161,15 @@ In order for the script to properly run, you must have the references set correc
 
 <figure><img src="https://i.imgur.com/jx4Ep53.gif" alt=""><figcaption><p>Automatic Doors - Open and Close</p></figcaption></figure>
 
-## Reference
+## References
 
 See the reference video by Red Nomster!
 
 {% embed url="https://www.youtube.com/watch?v=m3u7XaHU47k" %}
 Red Nomster - How to Forge Interactive Maps in Halo Infinite
 {% endembed %}
+
+|||
+|:--|:--|
+|**Page Authored By**| [@Nitro](https://twitter.com/NitroForged)|
+|**Date**|  20 November 2022  |

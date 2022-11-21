@@ -4,6 +4,12 @@
 
 Create false water, by using reflection volumes and modifying primitive object materials.
 
+|||
+|:--|:--|
+|**Title**| False Water Tutorial|
+|**Created By** | [@OmniPaimon](https://twitter.com/OmniPaimon)|
+|**Reference URL**| https://www.youtube.com/watch?v=I0nDlsi3Za8|
+
 ## Required Objects
 
 * [Reflection Volume](../objects/lights/generic-light-objects/reflection-volume.md)
@@ -59,7 +65,7 @@ Create your script brain in a similar fashion in order to help move the object i
 ![Build Reflection Volumes](../.gitbook/assets/images/tutorials/create-false-water-6.png)
 
 
-## Reference
+## References
 
 See the reference video by Paimon on the completed look!
 
@@ -68,3 +74,8 @@ False Water Tutorial - Paimon
 {% endembed %}
 
 ![Paimon - False Water Beauty Corner](../.gitbook/assets/images/tutorials/create-false-water-7.jpg)
+
+|||
+|:--|:--|
+|**Page Authored By**| [@Nitro](https://twitter.com/NitroForged)|
+|**Date**|  12 November 2022  |
