@@ -16,6 +16,90 @@
 </thead>
 <tbody>
 	<tr>
+		<td><strong>Declare Boolean Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-boolean-variable-thumb.png">declare-boolean-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-boolean-variable.png">declare-boolean-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Equipment Type Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-equipment-type-variable-thumb.png">declare-equipment-type-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-equipment-type-variable.png">declare-equipment-type-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Grenade Type Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-grenade-type-variable-thumb.png">declare-grenade-type-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-grenade-type-variable.png">declare-grenade-type-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Number Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-number-variable-thumb.png">declare-number-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-number-variable.png">declare-number-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Object List Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-object-list-variable-thumb.png">declare-object-list-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-object-list-variable.png">declare-object-list-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Object Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-object-variable-thumb.png">declare-object-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-object-variable.png">declare-object-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare String Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-string-variable-thumb.png">declare-string-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-string-variable.png">declare-string-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Team Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-team-variable-thumb.png">declare-team-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-team-variable.png">declare-team-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare UI Message Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-ui-message-variable-thumb.png">declare-ui-message-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-ui-message-variable.png">declare-ui-message-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Vector3 Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-vector3-variable-thumb.png">declare-vector3-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-vector3-variable.png">declare-vector3-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Vehicle Type Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-vehicle-type-variable-thumb.png">declare-vehicle-type-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-vehicle-type-variable.png">declare-vehicle-type-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Declare Weapon Type Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-weapon-type-variable-thumb.png">declare-weapon-type-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\declare-weapon-type-variable.png">declare-weapon-type-variable.png</a></td>
+	</tr>
+	<tr>
 		<td><strong>Get Boolean Variable</strong></td>
 		<td></td>
 		<td></td>
