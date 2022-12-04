@@ -183,4 +183,88 @@
 		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\get-weapon-type-variable-thumb.png">get-weapon-type-variable-thumb.png</a></td>
 		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\get-weapon-type-variable.png">get-weapon-type-variable.png</a></td>
 	</tr>
+	<tr>
+		<td><strong>Set Boolean Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-boolean-variable-thumb.png">set-boolean-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-boolean-variable.png">set-boolean-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Equipment Type Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-equipment-type-variable-thumb.png">set-equipment-type-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-equipment-type-variable.png">set-equipment-type-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Grenade Type Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-grenade-type-variable-thumb.png">set-grenade-type-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-grenade-type-variable.png">set-grenade-type-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Number Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-number-variable-thumb.png">set-number-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-number-variable.png">set-number-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Object List Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-object-list-variable-thumb.png">set-object-list-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-object-list-variable.png">set-object-list-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Object Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-object-variable-thumb.png">set-object-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-object-variable.png">set-object-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set String Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-string-variable-thumb.png">set-string-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-string-variable.png">set-string-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Team Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-team-variable-thumb.png">set-team-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-team-variable.png">set-team-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set UI Message Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-ui-message-variable-thumb.png">set-ui-message-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-ui-message-variable.png">set-ui-message-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Vector3 Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-vector3-variable-thumb.png">set-vector3-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-vector3-variable.png">set-vector3-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Vehicle Type Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-vehicle-type-variable-thumb.png">set-vehicle-type-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-vehicle-type-variable.png">set-vehicle-type-variable.png</a></td>
+	</tr>
+	<tr>
+		<td><strong>Set Weapon Type Variable</strong></td>
+		<td></td>
+		<td></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-weapon-type-variable-thumb.png">set-weapon-type-variable-thumb.png</a></td>
+		<td><a href="../../.gitbook\assets\images\scripting\variables-advanced\set-weapon-type-variable.png">set-weapon-type-variable.png</a></td>
+	</tr>
 </tbody>
