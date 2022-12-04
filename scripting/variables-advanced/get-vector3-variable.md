@@ -2,9 +2,9 @@
 
 ## Description
 
-Get the **Vector3** variable stored with the matching _identifier_ in the matching _Scope_. The _Object_ pin is only used when accessing the Object scope.
+Get the **Vector** variable stored with the matching _identifier_ in the matching _Scope_. The _Object_ pin is only used when accessing the Object scope.
 
-![Get Vector3 Variable](../../.gitbook\assets\images\scripting\variables-advanced\get-boolean-variable.png)
+![Get Vector3 Variable](../../.gitbook\assets\images\scripting\variables-advanced\get-vector3-variable.png)
 
 ## Arguments
 

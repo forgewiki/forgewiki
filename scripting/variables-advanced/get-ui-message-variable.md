@@ -4,7 +4,7 @@
 
 Get the **UI Message** variable stored with the matching _identifier_ in the matching _Scope_. The _Object_ pin is only used when accessing the Object scope.
 
-![Get UI Message Variable](../../.gitbook\assets\images\scripting\variables-advanced\get-boolean-variable.png)
+![Get UI Message Variable](../../.gitbook\assets\images\scripting\variables-advanced\get-ui-message-variable.png)
 
 ## Arguments
 
