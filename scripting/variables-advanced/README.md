@@ -2,6 +2,8 @@
 
 ## Description
 
+Nodes that declare, get, and set values for use by other nodes in script brains.
+
 ## List of objects
 
 <table data-view="cards">
