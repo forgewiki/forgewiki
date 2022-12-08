@@ -1,10 +1,10 @@
-# Area Monitor
+# Trait Deathless
 
 ## Description
 
 When enabled, affected players will take damage but cannot die.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/variables-basic/area-monitor.png)
+![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-deathless.png)
 
 ## Arguments
 

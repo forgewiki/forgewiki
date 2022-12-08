@@ -1,10 +1,10 @@
-# Area Monitor
+# Trait Grenade Pickup
 
 ## Description
 
 When disabled, affected players may not pickup grenades.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/variables-basic/area-monitor.png)
+![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-grenade-pickup.png)
 
 ## Arguments
 

@@ -1,10 +1,10 @@
-# Area Monitor
+# Trait Bottomless Clip
 
 ## Description
 
 When enabled, affected players will have infinite ammo and will not need to reload.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/variables-basic/area-monitor.png)
+![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-bottomless-clip.png)
 
 ## Arguments
 

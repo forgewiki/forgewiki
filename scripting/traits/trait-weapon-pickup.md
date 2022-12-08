@@ -1,10 +1,10 @@
-# Area Monitor
+# Trait Weapon Pickup
 
 ## Description
 
 When disabled, affected players may not pickup weapons.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/variables-basic/area-monitor.png)
+![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-weapon-pickup.png)
 
 ## Arguments
 

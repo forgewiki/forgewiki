@@ -1,10 +1,10 @@
-# Area Monitor
+# Trait Infinite Ammo
 
 ## Description
 
 When enabled, affected player will not run out of ammo.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/variables-basic/area-monitor.png)
+![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-infinite-ammo.png)
 
 ## Arguments
 
