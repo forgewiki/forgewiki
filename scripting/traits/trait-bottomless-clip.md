@@ -4,14 +4,14 @@
 
 When enabled, affected players will have infinite ammo and will not need to reload.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-bottomless-clip.png)
+![Trait Bottomless Clip](../../.gitbook/assets/images/scripting/traits/trait-bottomless-clip.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

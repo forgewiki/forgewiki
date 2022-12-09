@@ -4,14 +4,14 @@
 
 When disabled, affected players may not pickup equipment.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-equipment-pickup.png)
+![Trait Equipment Pickup](../../.gitbook/assets/images/scripting/traits/trait-equipment-pickup.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Equipment Pickup Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

@@ -4,14 +4,14 @@
 
 When disabled, affected players can no longer sprint.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-sprint-enabled.png)
+![Trait Sprint Enabled](../../.gitbook/assets/images/scripting/traits/trait-sprint-enabled.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

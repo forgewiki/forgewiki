@@ -4,14 +4,14 @@
 
 When enabled, affected player will not run out of ammo.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-infinite-ammo.png)
+![Trait Infinite Ammo](../../.gitbook/assets/images/scripting/traits/trait-infinite-ammo.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

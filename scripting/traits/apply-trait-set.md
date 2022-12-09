@@ -4,14 +4,17 @@
 
 Applies the **Trait Set** with the matching _Identifier_ to the _Player_. Optionally _Apply Immediately_ or wait for the next respawn to take effect.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/apply-trait-set.png)
+![Apply Trait Set](../../.gitbook/assets/images/scripting/traits/apply-trait-set.png)
 
 ## Arguments
 
+Actions:
+
+* Input
+* Output
+
 Inputs:
 
-* Monitor Object
-
-Outputs:
-
-* Area Monitor
+* Identifier
+* Player
+* Apply Immediately

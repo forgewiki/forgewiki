@@ -4,14 +4,14 @@
 
 When disabled, affected players cannot reload their weapon and sprint at the same time.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-sprint-reload-enabled.png)
+![Trait Sprint Reload Enabled](../../.gitbook/assets/images/scripting/traits/trait-sprint-reload-enabled.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

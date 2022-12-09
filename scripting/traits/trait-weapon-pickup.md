@@ -4,14 +4,14 @@
 
 When disabled, affected players may not pickup weapons.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-weapon-pickup.png)
+![Trait Weapon Pickup](../../.gitbook/assets/images/scripting/traits/trait-weapon-pickup.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

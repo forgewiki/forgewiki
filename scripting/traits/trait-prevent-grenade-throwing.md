@@ -4,14 +4,14 @@
 
 When _Prevent Throwing_ is true, affected players may not throw grenades.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-prevent-grenade-throwing.png)
+![Trait Prevent Grenade Throwing](../../.gitbook/assets/images/scripting/traits/trait-prevent-grenade-throwing.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Prevent Throwing
 
 Outputs:
 
-* Area Monitor
+* Trait

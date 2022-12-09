@@ -4,14 +4,14 @@
 
 When disabled, affected players may not pickup grenades.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-grenade-pickup.png)
+![Trait Grenade Pickup](../../.gitbook/assets/images/scripting/traits/trait-grenade-pickup.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

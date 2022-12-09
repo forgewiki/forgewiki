@@ -4,14 +4,14 @@
 
 When enabled, affected players who sprint will reset their shield recharge timer.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-sprint-resets-recharge.png)
+![Trait Sprint Resets Recharge](../../.gitbook/assets/images/scripting/traits/trait-sprint-resets-recharge.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

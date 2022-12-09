@@ -4,14 +4,14 @@
 
 When _Prevent Firing_ is true, affected players may not fire their weapons.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-prevent-weapon-firing.png)
+![Trait Prevent Weapon Firing](../../.gitbook/assets/images/scripting/traits/trait-prevent-weapon-firing.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Prevent Firing
 
 Outputs:
 
-* Area Monitor
+* Trait

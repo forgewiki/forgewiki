@@ -4,14 +4,15 @@
 
 Gets N traits from the _Trait List_ at random.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/get-random-n-traits.png)
+![Get Random N Traits](../../.gitbook/assets/images/scripting/traits/get-random-n-traits.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Trait List
+* Trait Count
 
 Outputs:
 
-* Area Monitor
+* New Trait List

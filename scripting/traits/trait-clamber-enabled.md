@@ -4,14 +4,14 @@
 
 When disabled, affected players will be unable to clamber on ledges.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-clamber-enabled.png)
+![Trait Clamber Enabled](../../.gitbook/assets/images/scripting/traits/trait-clamber-enabled.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait

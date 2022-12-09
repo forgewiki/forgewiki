@@ -4,14 +4,14 @@
 
 Affects how fast a player moves when holding a heavy object like a detached machine gun turret. A _Scalar_ of 1.0 is default. Higher values mean the player moves faster.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-movement-speed.png)
+![Trait Movement Speed](../../.gitbook/assets/images/scripting/traits/trait-movement-speed.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Scalar
 
 Outputs:
 
-* Area Monitor
+* Trait

@@ -4,14 +4,14 @@
 
 When enabled, affected players may only enter passenger seats of vehicles.
 
-![Area Monitor](../../.gitbook/assets/images/scripting/traits/trait-vehicle-passenger-only.png)
+![Trait Vehicle Passenger Only](../../.gitbook/assets/images/scripting/traits/trait-vehicle-passenger-only.png)
 
 ## Arguments
 
 Inputs:
 
-* Monitor Object
+* Enabled
 
 Outputs:
 
-* Area Monitor
+* Trait
