@@ -2,7 +2,7 @@
 
 ## Description
 
-Nodes that declare, get, and set values for use by other nodes in script brains.
+Nodes that store and retrieve values for use by other nodes using Declare/Get/Set style for more complicatred scripts. Can span multiple script brains.
 
 ## List of objects
 
