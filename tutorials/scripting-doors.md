@@ -36,35 +36,37 @@ Add the required objects to map in order to setup a scripted double doorway.
 * 1 - Script Brain
 * 1 - Scriptable Switch (Invisible)
 
-![](../.gitbook/assets/images/tutorials/creating-doors-double-doors-1.png)
+![Automatic Double Doors](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-double-doors-1.png)
+
+![Automatic Double Doors - Folders](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-double-doors-8.png)
 
 #### Object Reference - Switch
 
 Select the Scriptable Switch, then go into Node Graph and place an **Add Object Reference** to the Scriptable Switch.
 
-![Add Object Reference Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-2.png)
+![Add Object Reference Node](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-double-doors-2.png)
 
-![Object Reference - Scriptable Switch](../.gitbook/assets/images/tutorials/creating-doors-double-doors-3.png)
+![Object Reference - Scriptable Switch](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-double-doors-3.png)
 
 #### Object Reference - Floors (Doors)
 
 Add Object Reference nodes to each Floor Standard objects, similar to the step above.
 
-![Object Reference - Floors](../.gitbook/assets/images/tutorials/creating-doors-double-doors-7.png)
+![Object Reference - Floors](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-double-doors-7.png)
 
 #### Add Script Nodes
 
 Add **Move Object to Transform** node and then an **On Object Interacted** node
 
-![Move Object to Transform Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-4.png)
+![Move Object to Transform Node](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-double-doors-4.png)
 
-![On Object Interacted Node](../.gitbook/assets/images/tutorials/creating-doors-double-doors-5.png)
+![On Object Interacted Node](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-double-doors-5.png)
 
 #### Configure Script Nodes
 
 Connect the nodes; See [reference](scripting-doors.md#reference)
 
-![](../.gitbook/assets/images/tutorials/creating-doors-double-doors-6.png)
+![Automatic Double Doors - Script](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-double-doors-6.png)
 
 {% hint style="info" %}
 If you prefer to have a faster or slower door movement speed, adjust the amount of seconds on the **Move Object To Transform** node _Duration In Seconds_.
@@ -109,47 +111,47 @@ Add the required objects to map in order to setup a scripted automatic doorway.
 * 1 - Script Brain
 * 2 - Pointer; One pointer used as a boundary another a reference point
 
-![Automatic Doors](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-3.png)
+![Automatic Doors](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-3.png)
 
-![Automatic Doors - Full](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-4.png)
+![Automatic Doors - Full](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-4.png)
 
-![Automatic Doors - Folders](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-6.png)
+![Automatic Doors - Folders](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-6.png)
 
 #### Object Reference - Floors (Doors)
 
 Add Object Reference nodes to each Floor Standard objects, then go into Node Graph and place an **Add Object Reference** for the doors.
 
-![Object Reference - Doors](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-11.png)
+![Object Reference - Doors](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-11.png)
 
 #### Object Reference - Pointers
 
 Select the Detector Pointer, then go into Node Graph and place an **Add Object Reference** to the Pointer.
 
-![Object Reference - Pointers](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-12.png)
+![Object Reference - Pointers](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-12.png)
 
 #### Set Pointer Boundary
 
 Select and place the pointer in the desired placement. Set the boundary that fits the size of where you would like to monitor player movements.
 
-![Detector - Boundary](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-1.png)
+![Detector - Boundary](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-1.png)
 
-![Detector - Boundary](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-7.png)
+![Detector - Boundary](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-7.png)
 
-![Area Monitor Boundary](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-10.png)
+![Area Monitor Boundary](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-10.png)
 
 #### Set Reference Pointer
 
 In order to close the door properly, the door must have a Destination Point to reference. Copy the coordinates of the **Closed** door to the same point as the reference pointer, this will ensure the door closes to its original coordinates.
 
-![Reference Pointer Coordinates](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-8.png)
+![Reference Pointer Coordinates](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-8.png)
 
-![Door Original Coordinates](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-9.png)
+![Door Original Coordinates](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-9.png)
 
 #### Configure Script Nodes
 
 Connect the nodes; See [reference](scripting-doors.md#references)
 
-![Automatic Doors - Script](../.gitbook/assets/images/tutorials/creating-doors-automatic-doors-5.png)
+![Automatic Doors - Script](../.gitbook/assets/images/tutorials/scripting-doors/creating-doors-automatic-doors-5.png)
 
 {% hint style="info" %}
 In order for the script to properly run, you must have the references set correctly. Review the reference video on automatic doors for more information.
