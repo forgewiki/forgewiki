@@ -140,7 +140,12 @@ We won't need the _Get Objects In Area Monitor_ node anymore, so it can be delet
 In order to replicate what the _Get Objects In Area Monitor_ node was doing for us before, we're going to use the _Declare Object List Variable_ that will record what objects have entered and exited the _Danger Zone_. Due to the nature of scripting, you can safely assume that when you get or set declared variables, they will up to date when the node runs.
 
 {% hint style="info" %}
-There are 3 types of variable scope. Most of the time, _Local_ will be good enough for anything you need to script.
+There are 3 types of variable scope:
+
+1. Most of the time, _Local_ will be good enough for anything you need to script as it will keep your variable accessible only to the brain it's declared in.
+2. _Global_ simply allows the declared variable to be accessible from any brain.
+3. We'll use _Object_ in [part 4](#part-4-nodes).
+
 {% endhint %}
 
 #### Configure Nodes {#part-2-config}
@@ -252,30 +257,84 @@ This result is presented as a GIF and therefore lacks any sound.
 
 ### The Goal {#part-4-goal}
 
-description
+For this final part, we're going to add nodes that will add an additional mechanic to whatever game mode this script is played with. Since we've established a list of objects that will be damaged over time if they've recently entered the _Danger Zone_, we're going to add another way to add objects to this list: when they take damage.
 
 ### Required Nodes {#part-4-requirements}
 
-nodes
+{% hint style="info" %}
+The following nodes are only the new nodes that we'll be using.
+{% endhint %}
+
+* x1 - [Get All Players](../scripting/players/get-all-players.md)
+* x1 - [On Gameplay Start](../scripting/events/on-gameplay-start.md)
+* x1 - [On Player Joined](../scripting/events-players/on-player-joined.md)
+* x1 - [On Player Exited](../scripting/events-players/on-player-exited.md)
+* x2 - [Get Object Health](../scripting/objects/get-object-health.md)
+* x2 - [Get Object Shield](../scripting/objects/get-object-shield.md)
+* x2 - [Add](../scripting/math/add.md)
+* x1 - [Declare Number Variable](../scripting/variables-advanced/declare-number-variable.md)
+* x1 - [Get Number Variable](../scripting/variables-advanced/get-number-variable.md)
+* x1 - [Set Number Variable](../scripting/variables-advanced/set-number-variable.md)
+* x1 - [Compare](../scripting/logic/compare.md)
 
 ### Steps {#part-4-steps}
 
 #### Add Objects {#part-4-objects}
 
-objects
+If you've followed along from the last part, there are no new objects to add. See [part 2 objects](#part-2-objects) for the already existing objects.
 
 #### Select References {#part-4-references}
 
-references
+There are no new references, so see [part 2 references](#part-2-references) for the already existing references.
 
 #### Add Nodes {#part-4-nodes}
 
-nodes
+In order to track if a player has taken damage, we're going to attach a variable to them. This _Declare Number Variable_ will use the _Object_ scope level to create an instance of the variable for each player that will be unique to them. You can think of this scope as a hybrid of _Local_ and _Global_ as you need to use an object to access it, but it can accessed in any brain. It's also going to be useful to set the value of this variable in its own custom event that will be called at various times. We'll call it _Prev HP_.
+
+Next, we're going to add some housekeeping with the gamemode and our new number variable.
+
+1. To ensure every player has this variable on them and is properly reset at the start of each round, the _On Gameplay Start_ event will _Trigger Custom Event_ that sets the value of the variable.
+2. The _On Player Joined_ event provides a boolean for if a player _Joined In Progress_ and will also give this player our variable.
+3. The _On Player Exited_ event can be used to remove the leaving player from the _Damage_ object list.
+
+{% hint style="info" %}
+It may not be necessary to remove the player from the _Damage_ object list as the game may take care of this for you. This is provided for completeness.
+{% endhint %}
+
+Finally, we're going to implement the poison guns effect. We're going to poll each player as soon as the _Every N Seconds_ node will allow us and check if their current health and shields are below their _Prev HP_. If they are, update _Prev HP_ and add them to the _Damage_ list and if not, only update _Prev HP_.
+
+{% hint style="info" %}
+You should notice that this implementation doesn't take into consideration how the player received the damage. It will apply to any source of damage the player receives if there's no other checks in place. Friendly fire, environmental damage, vehicle collision, and anything else will trigger this.
+{% endhint %}
 
 #### Configure Nodes {#part-4-config}
 
-config
+![Track HP Event](../.gitbook/assets/images/tutorials/damage-over-time/track-event.png)
+
+![Gameplay Management](../.gitbook/assets/images/tutorials/damage-over-time/game-mode-manage.png)
+
+{% hint style="info" %}
+The 3 pins comming from off screen are from the _Damage_ list's _Identifier_ and _Get Object List_ nodes.
+
+The _Get All Players_ node's _Players_ pin is going off screen to the poison guns _For Each Player_ node.
+{% endhint %}
+
+![Poison Guns](../.gitbook/assets/images/tutorials/damage-over-time/poison-guns.png)
+
+{% hint style="info" %}
+The 2 pins comming from off screen are from the _Damage_ list's _Identifier_ and _Get Object List_ nodes.
+{% endhint %}
 
 ### Result {#part-4-result}
 
-result
+![Poison Guns Result](../.gitbook/assets/images/tutorials/damage-over-time/poison-guns-result.gif)
+
+{% hint style="info" %}
+The terminal used in this demonstration is simply using the _On Object Interacted_ node to apply immediate damage and demonstrate that the poison guns segment works.
+{% endhint %}
+
+![Final Node Graph Result](../.gitbook/assets/images/tutorials/damage-over-time/final-result.png)
+
+{% hint style="info" %}
+This is the final node graph result of the Damage Over Time tutorial.
+{% endhint %}
