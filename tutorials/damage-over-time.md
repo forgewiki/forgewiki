@@ -26,7 +26,7 @@ We're going to accomplish this in the following manner:
 2. Deal damage to each object in the zone.
 
 {% hint style="info" %}
-Players are registered as entering or exiting a boundary based on their midsection. If the bottom of a boundary is aligned with the ground, then distance to the top will need to be at least 3.6 units to register a standing and 2.5 units for a crouching Spartan.
+Players are registered as entering or exiting a boundary based on their midsection. If the bottom of a boundary is aligned with the ground, then the distance to the top will need to be at least 3.6 units to register a standing and 2.5 units for a crouching Spartan.
 {% endhint %}
 
 ### Required Nodes {#part-1-requirements}
@@ -137,13 +137,13 @@ We won't need the _Get Objects In Area Monitor_ node anymore, so it can be delet
 * Variables Advanced
 * Variables Basic
 
-In order to replicate what the _Get Objects In Area Monitor_ node was doing for us before, we're going to use the _Declare Object List Variable_ that will record what objects have entered and exited the _Danger Zone_. Due to the nature of scripting, you can safely assume that when you get or set declared variables, they will up to date when the node runs.
+In order to replicate what the _Get Objects In Area Monitor_ node was doing for us before, we're going to use the _Declare Object List Variable_ that will record what objects have entered and exited the _Danger Zone_. Due to the nature of scripting, you can safely assume that when you get or set declared variables, they will be up to date when the node runs.
 
 {% hint style="info" %}
 There are 3 types of variable scope:
 
-1. Most of the time, _Local_ will be good enough for anything you need to script as it will keep your variable accessible only to the brain it's declared in.
-2. _Global_ simply allows the declared variable to be accessible from any brain.
+1. Most of the time, _Local_ will be good enough for anything you need to script as it will keep your variable accessible only to the brain it's declared in. You could technically reuse the name for separate variables in other brains.
+2. _Global_ simply allows the declared variable to be accessible from any brain. That is, you won't have separate variables in different brains if the same name is used.
 3. We'll use _Object_ in [part 4](#part-4-nodes).
 
 {% endhint %}
@@ -155,6 +155,14 @@ The biggest change to the [part 1 config](#part-1-config) is we will have 2 main
 2 _Set Object List Variable_ nodes are required due to the restriction that nodes with diamond pins may only be connected to a single event node. Everything else is fairly straightforward. Note the _Seconds_ pin in the _Wait For N Seconds_ node. This will determine how long you want the poison effect to last after the object leaves the _Danger Zone_.
 
 ![Lingering Damage Script](../.gitbook/assets/images/tutorials/damage-over-time/lingering-damage-script.png)
+
+{% hint style="info" %}
+Important note: At the time of this writing, there is no way to terminate the execution of a script path if a given condition is met.
+
+For this simple implementation, you will notice a slight bug. If you reenter the _Danger Zone_ before the _On Object Exited Area_ path completes the _Wait For N Seconds_ node, you will no longer take damage while inside the _Danger Zone_.
+
+There are a couple of simple fixes for this, one of which is using the same _Wait For N Seconds_ duration on the _On Object Entered Area_ path.
+{% endhint %}
 
 ### Result {#part-2-result}
 
@@ -191,7 +199,7 @@ The following nodes are only the new nodes that we'll be using.
 
 Just like in the [part 1 objects](#part-1-objects) section, we're going add a _Named Location Volume_, give it its own name (Cure for this tutorial), and adjust its position and boundary according to our needs.
 
-Optionally, we can add an _Audio Emitter_ that will play a sound to indicate that the player has been cured of the poison. These are located under Gameplay -> Audio.
+Optionally, we can add an _Audio Emitter_ that will play a sound to indicate that the player has been cured of the poison. Forerunner Textures C is used for this tutorial. These are located under Gameplay -> Audio.
 
 ![Audio Emitter Properties](../.gitbook/assets/images/tutorials/damage-over-time/audio-emitter-properties.png)
 
@@ -207,7 +215,7 @@ We will need the _Cure_ and _Audio Emitter_ as new references.
 
 See [part 1 nodes](#part-1-nodes) for auto populating _Object References_ with the selected references.
 
-As stated earlier, we've already used all of the nodes necessary for applying the cure. They can be found in the _On Object Exited Area_ part of the script from the [part 2 config](#part-2-config), but we want _On Object Entered Area_ because we're curing.
+As stated earlier, we've already used all of the nodes necessary for applying the cure. They can be found in the _On Object Exited Area_ part of the script from the [part 2 config](#part-2-config), but we want the _On Object Entered Area_ event because we're curing.
 
 Duplicate these nodes and feed in an _Area Monitor_ line from the _Cure_ reference to complete the minimum effect.
 
@@ -223,7 +231,7 @@ The optional nodes we're going to add are going to be useful for any other scrip
 * Branch - this takes a condition and will continue execution through 1 of 2 paths of pins. Although they don't look it, the true and false pins can only connect to other diamond pins.
 * Custom events - these come in pairs: a "trigger" node and "on" node. These act like function calls and can allow you to better organize the graph.
 * Spawn and Delete objects - these are self explanatory.
-* Traits - these are important for modifying the traits of players at any given moment and are key to making unique game modes.
+* Traits - these are important for modifying the traits of players at any given moment and are key to making unique game mechanics.
 
 #### Configure Nodes {#part-3-config}
 
@@ -289,7 +297,7 @@ There are no new references, so see [part 2 references](#part-2-references) for 
 
 #### Add Nodes {#part-4-nodes}
 
-In order to track if a player has taken damage, we're going to attach a variable to them. This _Declare Number Variable_ will use the _Object_ scope level to create an instance of the variable for each player that will be unique to them. You can think of this scope as a hybrid of _Local_ and _Global_ as you need to use an object to access it, but it can accessed in any brain. It's also going to be useful to set the value of this variable in its own custom event that will be called at various times. We'll call it _Prev HP_.
+In order to track if a player has taken damage, we're going to attach a variable to them. This _Declare Number Variable_ will use the _Object_ scope level to create an instance of the variable for each player that will be unique to them. You can think of this scope as a hybrid of _Local_ and _Global_ since you need to use an object to access it, but it can be accessed in any brain that gets that object. It's also going to be useful to set the value of this variable in its own custom event that will be called at various times. We'll call it _Prev HP_.
 
 Next, we're going to add some housekeeping with the gamemode and our new number variable.
 
@@ -323,6 +331,10 @@ The _Get All Players_ node's _Players_ pin is going off screen to the poison gun
 
 {% hint style="info" %}
 The 2 pins comming from off screen are from the _Damage_ list's _Identifier_ and _Get Object List_ nodes.
+{% endhint %}
+
+{% hint style="info" %}
+An _Initial Delay_ of 1.5 seconds was necessary to get the script to run properly. Without it, the script appears to encounter something analogous to a null reference exception and prevents this script path from running.
 {% endhint %}
 
 ### Result {#part-4-result}
