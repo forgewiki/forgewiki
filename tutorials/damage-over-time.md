@@ -219,7 +219,7 @@ As stated earlier, we've already used all of the nodes necessary for applying th
 
 Duplicate these nodes and feed in an _Area Monitor_ line from the _Cure_ reference to complete the minimum effect.
 
-The new required nodes are located under:
+The new optional nodes are located under:
 
 * Events Custom
 * Logic
@@ -273,17 +273,17 @@ For this final part, we're going to add nodes that will add an additional mechan
 The following nodes are only the new nodes that we'll be using.
 {% endhint %}
 
-* x1 - [Get All Players](../scripting/players/get-all-players.md)
 * x1 - [On Gameplay Start](../scripting/events/on-gameplay-start.md)
-* x1 - [On Player Joined](../scripting/events-players/on-player-joined.md)
 * x1 - [On Player Exited](../scripting/events-players/on-player-exited.md)
+* x1 - [On Player Joined](../scripting/events-players/on-player-joined.md)
+* x1 - [Compare](../scripting/logic/compare.md)
+* x2 - [Add](../scripting/math/add.md)
 * x2 - [Get Object Health](../scripting/objects/get-object-health.md)
 * x2 - [Get Object Shield](../scripting/objects/get-object-shield.md)
-* x2 - [Add](../scripting/math/add.md)
+* x1 - [Get All Players](../scripting/players/get-all-players.md)
 * x1 - [Declare Number Variable](../scripting/variables-advanced/declare-number-variable.md)
 * x1 - [Get Number Variable](../scripting/variables-advanced/get-number-variable.md)
 * x1 - [Set Number Variable](../scripting/variables-advanced/set-number-variable.md)
-* x1 - [Compare](../scripting/logic/compare.md)
 
 ### Steps {#part-4-steps}
 
@@ -296,6 +296,16 @@ If you've followed along from the last part, there are no new objects to add. Se
 There are no new references, so see [part 2 references](#part-2-references) for the already existing references.
 
 #### Add Nodes {#part-4-nodes}
+
+The new required nodes are located under:
+
+* Events
+* Events Players
+* Logic
+* Math
+* Objects
+* Players
+* Variables Advanced
 
 In order to track if a player has taken damage, we're going to attach a variable to them. This _Declare Number Variable_ will use the _Object_ scope level to create an instance of the variable for each player that will be unique to them. You can think of this scope as a hybrid of _Local_ and _Global_ since you need to use an object to access it, but it can be accessed in any brain that gets that object. It's also going to be useful to set the value of this variable in its own custom event that will be called at various times. We'll call it _Prev HP_.
 
