@@ -6,9 +6,9 @@ Create prograssively more complex damage over time (DoT) scripts. The following 
 
 ## Required Objects
 
-* [Script Brain](objects\gameplay\scripting\script-brain.md)
-* [Named Location Volume](objects\gameplay\volumes\named-location-volume.md)
-* [Audio Emitter](objects\gameplay\audio\audio-emitter.md)
+* [Script Brain](../objects/gameplay/scripting/script-brain.md)
+* [Named Location Volume](../objects/gameplay/volumes/named-location-volume.md)
+* [Audio Emitter](../objects/gameplay/audio/audio-emitter.md)
 
 {% hint style="info" %}
 A _Named Location Volume_ is used in this tutorial for simplicity but any object can be used if its _Object Mode_ can be set to _Dynamic_ and given a _Gameplay Boundary_.
@@ -31,12 +31,12 @@ Players are registered as entering or exiting a boundary based on their midsecti
 
 ### Required Nodes {#part-1-requirements}
 
-* x1 - [Every N Seconds](scripting\events-custom\every-n-seconds.md)
-* x1 - [For Each Object](scripting\logic\for-each-object.md)
-* x1 - [Damage Object](scripting\objects\damage-object.md)
-* x1 - [Get Objects In Area Monitor](scripting\objects\get-objects-in-area-monitor.md)
-* x1 - [Area Monitor](scripting\variables-basic\area-monitor.md)
-* x1 - [Object Reference](scripting\variables-basic\object-reference.md)
+* x1 - [Every N Seconds](../scripting/events-custom/every-n-seconds.md)
+* x1 - [For Each Object](../scripting/logic/for-each-object.md)
+* x1 - [Damage Object](../scripting/objects/damage-object.md)
+* x1 - [Get Objects In Area Monitor](../scripting/objects/get-objects-in-area-monitor.md)
+* x1 - [Area Monitor](../scripting/variables-basic/area-monitor.md)
+* x1 - [Object Reference](../scripting/variables-basic/object-reference.md)
 
 {% hint style="info" %}
 The _For Each Object_ node is effectively interchangable with the _For Each Player_ node. The only difference between the two is that the player version will ignore all non-player objects in the supplied list. The object version is required to **also** damage any other objects that have health, e.g. vehicles and destructibles.
