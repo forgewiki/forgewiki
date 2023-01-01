@@ -28,7 +28,7 @@ Select the desired team (**Eagle** or **Cobra**) just below the boundary setting
 * Disable spawn points: **ON**
 * Affects opposing team: **ON**
 
-![Non-Weighted Respawn Volume](../.gitbook/assets/images/tutorials/respawn-weighted-volumes-non-weighted-volume.png)
+![Non-Weighted Respawn Volume](../.gitbook/assets/images/tutorials/setting-up-weighted-and-non-weighted-respawn-volumes/respawn-weighted-volumes-non-weighted-volume.png)
 
 ## Weighted Respawn Volumes
 
@@ -36,9 +36,9 @@ Weighted respawn volumes can be useful for multiple reasons, mainly to help play
 
 Since this example of the Spawn Volume Respawn is being setup for Capture the Flag game mode, the **Include CTF** label must be set on the object.
 
-![Weighted Respawn Volume](../.gitbook/assets/images/tutorials/respawn-weighted-volumes-weighted-volume.png)
+![Weighted Respawn Volume](../.gitbook/assets/images/tutorials/setting-up-weighted-and-non-weighted-respawn-volumes/respawn-weighted-volumes-weighted-volume.png)
 
-![Weighted Respawn Volumes Overview](../.gitbook/assets/images/tutorials/respawn-weighted-volumes-overview.png)
+![Weighted Respawn Volumes Overview](../.gitbook/assets/images/tutorials/setting-up-weighted-and-non-weighted-respawn-volumes/respawn-weighted-volumes-overview.png)
 
 
 Label Set up 

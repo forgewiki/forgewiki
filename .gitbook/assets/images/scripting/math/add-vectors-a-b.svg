@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px"
+	 height="400px" viewBox="0 0 300 400" enable-background="new 0 0 300 400" xml:space="preserve">
+<g id="Base_Vector" display="none">
+	<circle display="inline" fill="#FF0000" cx="406" cy="606" r="6"/>
+	<rect x="403" y="472" display="inline" fill="#FF0000" width="6" height="130"/>
+	<polygon display="inline" fill="#FF0000" points="406,476 396,482 406,456 416,482 	"/>
+</g>
+<g id="Sum">
+	<g id="A">
+		<circle fill="#FF0000" cx="82" cy="386" r="6"/>
+		
+			<rect x="166.188" y="168.657" transform="matrix(0.7271 0.6865 -0.6865 0.7271 247.7672 -36.0162)" fill="#FF0000" width="6" height="250"/>
+		<polygon fill="#FF0000" points="252.258,205.678 240.867,203.175 265.988,191.135 255.41,216.905 		"/>
+		<text transform="matrix(1 0 0 1 185.7832 335)" fill="#FF0000" font-family="'TimesNewRomanPSMT'" font-size="64">a</text>
+	</g>
+	<g id="B">
+		<circle fill="#0000FF" cx="265.999" cy="191.927" r="6"/>
+		
+			<rect x="226.078" y="15.481" transform="matrix(0.9197 -0.3927 0.3927 0.9197 -23.0197 98.4331)" fill="#0000FF" width="6.001" height="180"/>
+		<polygon fill="#0000FF" points="195.301,26.393 188.461,35.838 187.445,8 206.854,27.982 		"/>
+		<text transform="matrix(1 0 0 1 253.4277 117.1421)" fill="#0000FF" font-family="'TimesNewRomanPSMT'" font-size="64">b</text>
+	</g>
+	<g id="A_x2B_B">
+		<circle fill="#FF00FF" cx="82" cy="386" r="6"/>
+		
+			<rect x="129.982" y="16.968" transform="matrix(0.9634 0.2682 -0.2682 0.9634 59.3135 -28.2316)" fill="#FF00FF" width="6" height="372"/>
+		<polygon fill="#FF00FF" points="181.819,27.643 170.576,30.738 187.186,8.376 189.843,36.105 		"/>
+		<text transform="matrix(1 0 0 1 15.2056 198.9287)" fill="#FF00FF" font-family="'TimesNewRomanPSMT'" font-size="64">a+b</text>
+	</g>
+</g>
+<g id="Diff" display="none">
+	<g id="A2" display="inline">
+		<circle fill="#FF0000" cx="100.193" cy="301.535" r="6"/>
+		
+			<rect x="184.382" y="84.192" transform="matrix(0.7271 0.6865 -0.6865 0.7271 194.7458 -71.5552)" fill="#FF0000" width="6" height="250"/>
+		<polygon fill="#FF0000" points="270.451,121.213 259.061,118.71 284.182,106.67 273.604,132.44 		"/>
+		<text transform="matrix(1 0 0 1 203.9771 250.5352)" fill="#FF0000" font-family="'TimesNewRomanPSMT'" font-size="64">a</text>
+	</g>
+	<g id="B2" display="inline">
+		<circle fill="#0000FF" cx="100.192" cy="301.534" r="6"/>
+		
+			<rect x="60.272" y="125.088" transform="matrix(0.9197 -0.3926 0.3926 0.9197 -79.3565 42.1045)" fill="#0000FF" width="6" height="180"/>
+		<polygon fill="#0000FF" points="29.494,136 22.654,145.445 21.639,117.607 41.047,137.59 		"/>
+		<text transform="matrix(1 0 0 1 21.6387 258.6768)" fill="#0000FF" font-family="'TimesNewRomanPSMT'" font-size="64">b</text>
+	</g>
+	<g id="A-B" display="inline">
+		<circle fill="#FF00FF" cx="21.628" cy="117.611" r="5.999"/>
+		
+			<rect x="143.517" y="-8.62" transform="matrix(0.0418 0.9991 -0.9991 0.0418 252.67 -38.7102)" fill="#FF00FF" width="6" height="241.999"/>
+		<polygon fill="#FF00FF" points="264.389,107.442 257.977,97.702 284.371,106.604 258.813,117.685 		"/>
+		<text transform="matrix(1 0 0 1 109.0654 92.4644)" fill="#FF00FF" font-family="'TimesNewRomanPSMT'" font-size="64">a-b</text>
+	</g>
+</g>
+<g id="Norm" display="none">
+	<g id="A3" display="inline">
+		<circle fill="#FF0000" cx="111.537" cy="304.887" r="6"/>
+		
+			<rect x="168.637" y="87.179" transform="matrix(0.8631 0.5051 -0.5051 0.8631 125.6154 -59.0061)" fill="#FF0000" width="6" height="230"/>
+		<polygon fill="#FF0000" points="227.696,106.375 216.035,106.504 237.797,89.113 233.297,116.604 		"/>
+	</g>
+	<g id="An" display="inline">
+		<circle cx="111.537" cy="304.887" r="6"/>
+		<rect x="113.083" y="292.12" transform="matrix(0.8631 0.5051 -0.5051 0.8631 165.9603 -17.9477)" width="6" height="10"/>
+		<rect x="123.183" y="274.857" transform="matrix(0.8632 0.5049 -0.5049 0.8632 158.5693 -25.4187)" width="6" height="10"/>
+		<rect x="133.285" y="257.596" transform="matrix(0.8631 0.505 -0.505 0.8631 151.26 -32.8795)" width="5.999" height="10"/>
+		<rect x="143.385" y="240.333" transform="matrix(0.8632 0.5049 -0.5049 0.8632 143.9019 -40.3429)" width="6" height="10.001"/>
+		<rect x="153.486" y="223.072" transform="matrix(0.8631 0.505 -0.505 0.8631 136.6071 -47.8075)" width="6" height="10"/>
+		<rect x="163.587" y="205.81" transform="matrix(0.8631 0.5051 -0.5051 0.8631 129.2941 -55.2751)" width="5.999" height="10"/>
+		<polygon points="167.092,209.947 155.43,210.074 177.192,192.686 172.692,220.176 		"/>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 216.0356 181.9219)" display="inline" fill="#FF0000" font-family="'TimesNewRomanPSMT'" font-size="64">a</text>
+	<text transform="matrix(1 0 0 1 151.3716 309.5029)" display="inline" font-family="'TimesNewRomanPSMT'" font-size="64">a</text>
+	<text transform="matrix(1 0 0 1 151.3711 288.2686)" display="inline" font-family="'VinerHandITC'" font-size="32">^</text>
+	<path display="inline" d="M100.018,281.837c2.135-3.404,17.063-27.247,19.197-30.654c2.133-3.406,2.111-12.148-9.668-17.453
+		c11.779,5.305,20.33,0.424,22.465-2.982c2.133-3.405,17.063-27.248,19.197-30.654c4.262-6.811,20.578-8.196,20.578-8.196
+		c-4.27-1.925-20.33-0.424-24.596,6.387c-2.135,3.408-17.063,27.249-19.197,30.655c-4.264,6.813-22.215,3.096-30.496-0.634
+		c8.281,3.729,21.967,14.258,17.699,21.068c-2.131,3.408-17.063,27.249-19.193,30.656c-4.266,6.811,3.264,18.936,7.533,20.857
+		C103.537,300.887,95.752,288.649,100.018,281.837z"/>
+	<text transform="matrix(1 0 0 1 62.2041 239.5029)" display="inline" font-family="'TimesNewRomanPSMT'" font-size="64">1</text>
+</g>
+</svg>
