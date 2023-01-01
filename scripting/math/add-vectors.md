@@ -1,16 +1,20 @@
----
-description: Returns the sum of two input vectors
----
-
 # Add Vectors
+
+## Description
+
+Returns the sum of the two input vectors.
+
+![Add Vectors](../../.gitbook/assets/images/scripting/math/add-vectors.png)
 
 ## Arguments
 
 Inputs:
 
-- Operand A
-- Operand B
+* Operand A
+* Operand B
 
 Outputs:
 
-- Result
+* Result
+
+![Add Vectors](../../.gitbook/assets/images/scripting/math/add-vectors-a-b.svg)
